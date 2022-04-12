@@ -11,6 +11,8 @@ meta:
   author: Miloš Urban
   publisher: Městská knihovna v Praze
   modified: '2018-02-08T00:00:00.000Z'
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - hastrman_002.html
   - hastrman_005.html
@@ -22,6 +24,15 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
+      - link: hastrman_005.html
+        title: Slovo autora
+        hiddenTitle: true
+      - link: hastrman_006.html
+        title: Věnování
+        hiddenTitle: true
+      - link: hastrman_007.html
+        title: Citát
+        hiddenTitle: true
       - link: hastrman_008.html
         title: Kniha první
         hiddenTitle: false
