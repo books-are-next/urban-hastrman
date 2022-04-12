@@ -1,0 +1,384 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Hastrman",
+      "identifier": "51cc3bfd-794f-44ec-8017-8bb77668d688",
+      "author": "Miloš Urban",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2018-02-08T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "hastrman_001.md",
+            "xhtml": "hastrman_001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hastrman_002.md",
+            "xhtml": "hastrman_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hastrman_003.md",
+            "xhtml": "hastrman_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hastrman_004.md",
+            "xhtml": "hastrman_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hastrman_005.md",
+            "xhtml": "hastrman_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hastrman_006.md",
+            "xhtml": "hastrman_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hastrman_007.md",
+            "xhtml": "hastrman_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hastrman_008.md",
+            "xhtml": "hastrman_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hastrman_009.md",
+            "xhtml": "hastrman_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hastrman_010.md",
+            "xhtml": "hastrman_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hastrman_011.md",
+            "xhtml": "hastrman_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hastrman_012.md",
+            "xhtml": "hastrman_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hastrman_013.md",
+            "xhtml": "hastrman_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hastrman_014.md",
+            "xhtml": "hastrman_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Hastrman",
+      "identifier": "51cc3bfd-794f-44ec-8017-8bb77668d688",
+      "author": "Miloš Urban",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2018-02-08T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hastrman_001.md",
+        "xhtml": "hastrman_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hastrman_002.md",
+        "xhtml": "hastrman_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hastrman_003.md",
+        "xhtml": "hastrman_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hastrman_004.md",
+        "xhtml": "hastrman_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hastrman_005.md",
+        "xhtml": "hastrman_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hastrman_006.md",
+        "xhtml": "hastrman_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hastrman_007.md",
+        "xhtml": "hastrman_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hastrman_008.md",
+        "xhtml": "hastrman_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hastrman_009.md",
+        "xhtml": "hastrman_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hastrman_010.md",
+        "xhtml": "hastrman_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hastrman_011.md",
+        "xhtml": "hastrman_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hastrman_012.md",
+        "xhtml": "hastrman_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hastrman_013.md",
+        "xhtml": "hastrman_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hastrman_014.md",
+        "xhtml": "hastrman_014.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "calibre11",
+      "calibre12",
+      "calibre14",
+      "calibre15",
+      "calibre16",
+      "calibre18",
+      "calibre20",
+      "calibre4",
+      "calibre5",
+      "calibre6",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicenceparagraf",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlptext",
+      "mlptext1",
+      "mlptextb",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptirazautoranazev",
+      "mlptirazpodnazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlptitulkapodnazev",
+      "mlpuroven1cast",
+      "mlpvenovanicxspfirst",
+      "mlpvenovanicxsplast",
+      "mlpversei",
+      "mlpznaktucnakurziva11b",
+      "mlpznaktucne11b",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection2",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8",
+      "wordsection9"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "urban-hastrman"
+    },
+    "generatedAt": 1649752770679
+  }
+}

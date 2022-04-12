@@ -1,0 +1,128 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Hastrman",
+    "identifier": "51cc3bfd-794f-44ec-8017-8bb77668d688",
+    "author": "Miloš Urban",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2018-02-08T00:00:00.000Z",
+    "published": "2018-02-07T00:00:00.000Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hastrman_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hastrman_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hastrman_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hastrman_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hastrman_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hastrman_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hastrman_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hastrman_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hastrman_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hastrman_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hastrman_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hastrman_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hastrman_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/hastrman_014.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Kniha první",
+      "href": "OEBPS/Text/hastrman_008.html"
+    },
+    {
+      "title": "Kniha druhá",
+      "href": "OEBPS/Text/hastrman_011.html"
+    }
+  ]
+}
