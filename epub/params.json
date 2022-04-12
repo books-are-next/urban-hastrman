@@ -125,10 +125,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha první"
           },
           {
             "filename": "hastrman_009.md",
@@ -138,7 +139,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -150,7 +151,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -161,10 +162,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kniha druhá"
           },
           {
             "filename": "hastrman_012.md",
@@ -174,7 +176,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -186,7 +188,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -194,7 +196,7 @@
             "filename": "hastrman_014.md",
             "xhtml": "hastrman_014.html",
             "id": 13,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -202,7 +204,8 @@
             "hiddenTitle": false,
             "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ],
     "replacements": []
@@ -259,7 +262,7 @@
         "xhtml": "hastrman_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kniha první",
         "subtitleSuggest": "",
         "filename": "hastrman_008.md",
         "xhtml": "hastrman_008.html"
@@ -277,7 +280,7 @@
         "xhtml": "hastrman_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kniha druhá",
         "subtitleSuggest": "",
         "filename": "hastrman_011.md",
         "xhtml": "hastrman_011.html"
@@ -397,6 +400,6 @@
       "user": "books-are-next",
       "repo": "urban-hastrman"
     },
-    "generatedAt": 1649752770679
+    "generatedAt": 1649754085700
   }
 }
