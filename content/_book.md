@@ -17,16 +17,17 @@ readingOrder:
   - hastrman_006.html
   - hastrman_007.html
   - hastrman_008.html
-  - hastrman_009.html
-  - hastrman_010.html
   - hastrman_011.html
-  - hastrman_012.html
-  - hastrman_013.html
-  - hastrman_014.html
   - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: hastrman_008.html
+        title: Kniha první
+        hiddenTitle: false
+      - link: hastrman_011.html
+        title: Kniha druhá
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
