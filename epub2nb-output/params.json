@@ -1,6 +1,8 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Hastrman",
       "identifier": "51cc3bfd-794f-44ec-8017-8bb77668d688",
       "author": "Miloš Urban",
@@ -8,21 +10,21 @@
       "modified": "2018-02-08T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "mlpuroven1cast",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "blockquote": "",
+      "figure": "mlpobrazky",
+      "em": "mlpvenovanicxspfirst mlpvenovanicxsplast mlpversei mlpznaktucnakurziva11b",
+      "strong": "mlptextb mlptirazautoranazev mlpznaktucnakurziva11b mlpznaktucne11b",
       "remove": "",
       "ignore": ""
     },
@@ -30,17 +32,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "hastrman_001.md",
             "xhtml": "hastrman_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hastrman_002.md",
@@ -48,32 +52,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hastrman_003.md",
             "xhtml": "hastrman_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hastrman_004.md",
             "xhtml": "hastrman_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hastrman_005.md",
@@ -84,7 +91,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hastrman_006.md",
@@ -95,7 +103,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hastrman_007.md",
@@ -106,7 +115,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hastrman_008.md",
@@ -117,7 +127,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hastrman_009.md",
@@ -128,7 +139,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hastrman_010.md",
@@ -139,7 +151,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hastrman_011.md",
@@ -150,7 +163,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hastrman_012.md",
@@ -161,7 +175,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hastrman_013.md",
@@ -172,7 +187,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hastrman_014.md",
@@ -183,7 +199,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -241,7 +258,7 @@
         "xhtml": "hastrman_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kniha první",
         "subtitleSuggest": "",
         "filename": "hastrman_008.md",
         "xhtml": "hastrman_008.html"
@@ -259,7 +276,7 @@
         "xhtml": "hastrman_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kniha druhá",
         "subtitleSuggest": "",
         "filename": "hastrman_011.md",
         "xhtml": "hastrman_011.html"
@@ -379,6 +396,6 @@
       "user": "books-are-next",
       "repo": "urban-hastrman"
     },
-    "generatedAt": 1649752770679
+    "generatedAt": 1649754085700
   }
 }

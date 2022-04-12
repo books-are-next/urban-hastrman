@@ -1,0 +1,268 @@
+{
+  "author": "Miloš Urban",
+  "contenttype": "prose",
+  "identifier": "urban-hastrman-a1fa301",
+  "languagecode": "cs",
+  "modified": "2018-02-08T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Hastrman",
+  "revision": "a1fa301",
+  "generatedAt": {
+    "date": "Tue Apr 12 2022 09:02:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649754143407
+  },
+  "documents": [
+    {
+      "title": "Hastrman",
+      "file": "hastrman_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "hastrman_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hastrman",
+      "file": "hastrman_005.html",
+      "words": 31,
+      "chars": 169,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 1,
+      "prev": "hastrman_002.html",
+      "next": "hastrman_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hastrman",
+      "file": "hastrman_006.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 2,
+      "prev": "hastrman_005.html",
+      "next": "hastrman_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hastrman",
+      "file": "hastrman_007.html",
+      "words": 9,
+      "chars": 58,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 3,
+      "prev": "hastrman_006.html",
+      "next": "hastrman_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kniha první • Hastrman",
+      "file": "hastrman_008.html",
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 4,
+      "prev": "hastrman_007.html",
+      "next": "hastrman_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha první",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hastrman",
+      "file": "hastrman_009.html",
+      "words": 24563,
+      "chars": 144089,
+      "ideas": 475,
+      "role": "chapter",
+      "order": 5,
+      "prev": "hastrman_008.html",
+      "next": "hastrman_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hastrman",
+      "file": "hastrman_010.html",
+      "words": 34871,
+      "chars": 203578,
+      "ideas": 467,
+      "role": "chapter",
+      "order": 6,
+      "prev": "hastrman_009.html",
+      "next": "hastrman_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kniha druhá • Hastrman",
+      "file": "hastrman_011.html",
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 7,
+      "prev": "hastrman_010.html",
+      "next": "hastrman_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kniha druhá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hastrman",
+      "file": "hastrman_012.html",
+      "words": 21660,
+      "chars": 129786,
+      "ideas": 444,
+      "role": "chapter",
+      "order": 8,
+      "prev": "hastrman_011.html",
+      "next": "hastrman_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hastrman",
+      "file": "hastrman_013.html",
+      "words": 23409,
+      "chars": 139945,
+      "ideas": 457,
+      "role": "chapter",
+      "order": 9,
+      "prev": "hastrman_012.html",
+      "next": "hastrman_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hastrman",
+      "file": "hastrman_014.html",
+      "words": 55,
+      "chars": 354,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 10,
+      "prev": "hastrman_013.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Hastrman",
+      "file": "colophon.html",
+      "words": 83,
+      "chars": 539,
+      "ideas": 11,
+      "role": "colophon",
+      "order": null,
+      "prev": "hastrman_014.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 104688,
+      "chars": 618559,
+      "ideas": 1880
+    },
+    "chapters": {
+      "words": 104602,
+      "chars": 618001,
+      "ideas": 1867
+    }
+  }
+}

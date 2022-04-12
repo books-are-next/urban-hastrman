@@ -1,6 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
+
+  
 
 Protože tak to musí být.
 
@@ -38,6 +41,8 @@ Tak jako zvíře tváří v tvář člověku i já jsem teď udělal pár kroků
 
 Odešel jsem, abych se mohl vrátit mocný slova.
 
+  
+
 Přišel jsem podruhé.
 
 Vybral jsem cestu oklikou. Se starou nepřesnou mapou v ruce jsem v městečku jménem Holany zabušil na strop kočáru a křikl na vozku, aby sjel z císařské silnice na cestu, vinoucí se od záhumenků těch nejchudších chalup. Chtěl jsem poznat svůj kraj. Pustili jsme se na severovýchod, kde se měla za hájem otevřít alej vévody z Valdštejna, v mapě vyznačená rovnou červenou čárou. Projeli jsme světlým, ještě nezalistěným mlázím a ocitli se v černé smrčině, jakých jsem na své dlouhé cestě příliš neviděl, neboť móda rychlých, málo odolných, ale vysoce výnosných dřevin teprve začínala. Jen nemnozí věděli, že spolu se smrky jim v lese rostou vyhlídky na hromadu tolarů.
@@ -59,6 +64,8 @@ Vítr mě zastudil v zubech a já si uvědomil, že se usmívám. Mhouřil jsem 
 Natočil jsem hlavu, abych zachytil alespoň ozvěnu těch klidných chvil, a tu mi vítr serval z hlavy paruku a odnesl ji daleko za kočár, díval jsem se, jak se kutálí v prachu a vzápětí uvízne v trní u cesty. Náhlá svoboda je opojná. Prsty jsem si pročísl vlasy a s rozkoší je vystavil předjarnímu větru. V mžiku byly suché a já jsem se, znenadání vyčerpaný, zhroutil zpátky do vozu.
 
 Odšrouboval jsem víčko čutory a smáčel si vlasy. Obrátil jsem se k zablácenému okénku na druhé straně vozu a pohlédl na svou tvář. Bez paruky vypadala mladší, po vší vážnosti a usedlosti bylo veta. Rozcuchal jsem se a pak si vlasy na spáncích a na temeni sčesal dopředu, jak to bylo právě v módě: nosila se nespoutanost těla i myšlenek. Byl jsem spokojen s tím, co vidím. Až přijedu na své panství, nechám si ušít kolekci klobouků podle nových pařížských fazón, nejlépe něco na Brummellův způsob. Klobouky totiž, podobně jako paruky, uspokojivě drží vlhkost.
+
+  
 
 Za víčky mi uvízl obraz krajiny z kočáru: šedavá políčka netrpělivě čekající na orbu, za dunami prsti hladina Dolanského rybníka. Stříbřila se proti severnímu nebi, na okrajích přecházela do žlutavých a okrových tónů – tam, kde se držel starý led. Černé vločky nad ním byly vrány, zdálo se, že se vůbec nehýbají. Syrový den tloukl do očí.
 
@@ -126,6 +133,8 @@ Nábytek, který se se mnou stěhoval z Paříže do Heidelbergu, z Heidelbergu 
 
 Čtyři bílé stěny, dvě úzká okna, stůl a dvě židle, příborník, prádelník, šatní skříň, postel, křesílka, noční stolek a taburet a samozřejmě prosklený příborník zaplněný fajánsí a čínským a míšeňským porcelánem po předcích. Ale už žádné rezidence, žádné zámecké komnaty, žádná narychlo vyklízená, ve spěchu větraná apartmá těch nejlepších hostinců. Nyní jsem byl rozhodnut žít tady, jedna svoboda končila a začínala jiná, zcela podle mé výsostné vůle, jak jsem se domníval. Byl to omyl. Dvě věci mě tehdy naplňovaly úžasem: mravní zákon mimo mne a hvězdné nebe ve mně. A nic by je nepřekonalo, kdybych byl nepřijel.
 
+  
+
 Jakub, Slunečko, Hoffman starší a Hoffman mladší, bratři Johan a Simon, Liška, Václav, Pešek, Ehrenberger – jména, jež jsem si následujícího slunného jitra pozpátku četl v mizejícím, rychle se rozpouštějícím ledě. Měl příchuť lesů severní Evropy; voda si vždy pamatuje, odkud přišla naposledy.
 
 V noci jsem nemohl spát. Vyšel jsem do lesa a ještě před kuropěním vklouzl pod hladinu Koňského rybníka, ulehl na dohled skály zvané Smrtka, nevysokého kamenného klínu vraženého do vody, s vypouklým převisem připomínajícím lebku skloněnou v zamyšlení. Tahle voda byla pod ledem hustá jako kaše. Rybník nebyl hluboký, vodu navíc zahušťovaly trsy loňského orobince a všudypřítomné ostrůvky plovoucí rašeliny; později na jaře ještě přibudou lekníny a nové rákosí. Rozvířil jsem kal na dně, počkal si, až se usadí, a natáhl se do bílého písku. Usnul jsem za zpěvu ptáků, který ke mně tlumeně pronikal pod hladinu, a procitl, když se poprvé toho dne unavili, mohlo být k deváté ranní. Led nade mnou už úplně roztál, poslední zbytky zůstaly ve stínu pod skálou, budou se tam držet do příštího novoluní.
@@ -136,17 +145,21 @@ Zaslechl jsem dívčí zpěv a zvedl hlavu. Z lesa přicházel průvod mladých 
 
 Brzy byla skála jako obsypaná, mezi mladými vesničany jsem poznal některé ze svých, ale podle počtu jich spousta přišlo i z Kozlů, Holan a možná i Stvolínek, neboť právě z toho směru se za průvodem trousili opozdilci, někteří spárovaní, jiní ukusující z krajíce chleba od snídaně. Náhle se u zakrslé borovice, sklánějící se z okraje skály, zvedl podivný stožár, došek uvázaný na dlouhé tyči a opatřený slaměnou hlavou s temnými otvory pro oči a nos a trnovou větví místo huby. Panák byl navlečený do rubáše, blátem pomazané košile s velkou ošklivou záplatou ve tvaru šikmého kříže. Smrt, o Smrtné neděli, na skále Smrtka. Konečně mi to došlo, už jsem věděl, jaké divadlo bude následovat. A netušil jsem nic o své úloze v něm.
 
-Smrt neseme ze vsi,  
+_Smrt neseme ze vsi,  
 nové léto do vsi!  
 Vítáme tě, drahé léto,  
-obilíčko zelené!
+obilíčko zelené!_
+
+  
 
 Už jsem rozuměl. Slaměnou smrt držel mladík, narostlý jak z vody prut, se silnými kostmi a černými vlasy. Byl obutý v nablýskaných holínkách a oděný jen ve světlých vlněných nohavicích a prosté bílé košili bez límce – povážlivě nalehko v porovnání s těmi z jeho družiny, kteří ještě vzali za vděk krátkými kožíšky.
 
 Kde nebyl stín a lezavá zima, tam slunce příjemně hřálo a nutilo odkládat nejteplejší části oděvu. Muž se smrtí jeho paprsky nepotřeboval, jeho síla ke mně sálala přes zátoku jako výzva. Jakub, syn ponocného. Nebylo pochyb, že je to on.
 
-Neseme smrt stařenu,  
-utopme ji, Mařenu!
+_Neseme smrt stařenu,  
+utopme ji, Mařenu!_
+
+  
 
 Vzadu pod stromy se objevila mladá žena, dlouhými kroky přeběhla temeno skály a stanula po Jakubově boku nad srázem, dokonce se mu opřela o rameno a něco mu řekla. Nato se zasmál a napůl otočen dozadu na někoho něco křikl a vzápětí se ozval mnohahlasý smích. Smrt se mu klátila v rukou jako třtina, proti tomuhle nebojsovi bezmocná. Potom hluk ustal, jako když utne, smrt byla vyzdvižena vysoko nad borovici, znehybnělá jako v předtuše neodvratného osudu. Strnul i celý průvod. Všechny oči se stočily k příšerné slaměné hlavě, až na jeden zastřený pohled, který se přes zátoku upřel přímo na mě. Nemohl mě v rákosí zahlédnout, ale já viděl dobře. V těch podivných očích, kulatých a ostrých jako dva srpy, číhala smrt. A tahle byla opravdová, žádná slaměná náhražka.
 
@@ -154,12 +167,16 @@ Oči byly divné, ale krása oválné tváře brala za srdce. Na tu vzdálenost 
 
 „Teď!“ vykřikl Jakub a vyhodil mátohu do vzduchu. Opsala klenutý oblouk, dech davu ji provázel, když se nadvakrát obrátila jak v mlýnském kole, košile zaplála proti skále a vyplašila kulíka hnízdícího pod převisem. Jen taktak unikl jejímu střemhlavému pádu a jako střela vletěl do rákosí, přesně tam, kde jsem seděl v mělké vodě. Jeho křídlo mě švihlo po krku a srdcem mi zaškubal jeho šílený tep. Dav zařičel:
 
-Líto, líto, líto – kdes tak dlouho bylo?
+_Líto, líto, líto – kdes tak dlouho bylo?_
+
+  
 
 Smrtka se položila na vodu a pomalu opisovala hodiny, zvolna se poddávajíc proudu, jenž nevedl středem rybníka, ale v křivém běhu obtékal skálu a stáčel se k jihozápadnímu cípu, odkud vedl potok do sousedící tůně. Nahoře na skále se začalo tancovat, hudbu ti lidé nepotřebovali a divočili zcela podle libosti. Jakub a Kateřina se točili v kole, jako by chtěli smrti dole předvést, kdo to umí líp. Ostatní je napodobili, rej kabátů a halen se roztančil po lese a po vodě se rozletěl jeho halas, takže ptáci, kteří ráno s takovou samozřejmostí ozvučovali bor, teď úplně zmlkli. A z břehů se zvedl nový halas a bylo v něm zvonění cínu a třaskání kameniny, jak tanečníci vytahovali z mošen holby a džbány a připíjeli na nové léto, na pokoření zimy a smrti, na vítězství člověka nad přírodou. Pár, který před chvílí mrštil smrtkou do vody, se zastavil nad propastí a pak, zapřený nohama o kámen, si vyměnil rychlý polibek – jako by se ty dvě tváře navzájem udeřily ústy.
 
-Smrt jsme ze vsi vynesli,  
-nový život přinesli!
+_Smrt jsme ze vsi vynesli,  
+nový život přinesli!_
+
+  
 
 Nikdo si už nevšímal smrtky, jež pomalu plula k rákosí, ale cestou se zachytila o ostrůvek rašeliny a zůstala ležet na hladině. Stébla vlasů se oddělovala jedno po druhém a pokračovala v cestě o samotě, košili bělilo slunce a čistila voda, tvář se nafukovala jako obličej utopence. Doplula ke mně, měl jsem ji na dosah, byl jsem s ní sám. Stala se rukavicí, kterou mi ti nahoře vmetli do tváře, a já si to v tu chvíli nemínil nechat líbit.
 
@@ -176,6 +193,8 @@ Nespěchal jsem. Doplaval jsem pod vodou pro trup smrti a hlavu na něj narazil.
 Z břehů to viděli jako pimprlové divadlo: junák si jako řecký atlétos vychutnává vítězství, vesluje pomalu, krouží po rybníce, opájí se potleskem. Neslyší, že jejich křik nabral varovný tón, nevidí, jak se z vody nanovo zvedá smrt a vykračuje si po hladině, jak se k němu zezadu sklání, jak se napřimuje, mává zděšenému publiku a celou vahou dřevěného kůlu obaleného slámou padá na mladíkovu šíji.
 
 Loďka se převrátí a zmizí pod hladinou, ze dna se vyvalí bubliny, které chvíli pukají na vodě, jako by se vařila. Jakub zmizel. Zafouká vítr, voda se zklidní, poprask na březích se mění v pláč. Půldruhého lokte pod hladinou pohřbívám pod potopenou loďkou smrt. Mrtvého políbím na rozloučenou a vyzvednu na hladinu, nemá v plicích vodu, a tak se drží na vodě a pomalu je unášen ke skále, jeho líce ještě nestačily ztratit barvu. Pohlédnu na Kateřinu a musím se podivit, jak je klidná, dokonce smířená, jako by tragédii čekala. Klečí na skále a drží v prstech růžovou pentli, kterou si odvázala z vlasů. Bere ji od ní vítr. Odnáší ji do močálů za rybník.
+
+  
 
 V noci se mi zjevila dřevěná modla v podobě dítěte v povijanu, zakopl jsem o ni v černé tůni, na samém dně svého snu. Odradek, tak znělo její jméno, měla zavřené oči a její maličká ústa se usmívala. Pak se mi něco otřelo o rameno, upustil jsem Odradka a ohlédl se. Byl tam ten druhý, obrovský losos, upírající na mě nehybné kulaté oko. Huba plná špičatých zubů se sotva pootevřela a já to varování pochopil.
 
@@ -243,20 +262,26 @@ Po obědě mi nabídl praženou kávu a já s radostí přijal, tak daleko od v�
 
 Tváře a čelo mu pojednou žhnuly, byl připraven odrazit každou mou námitku. Nechtěl jsem se s ním přít. Vstal jsem od stolu, v jedné ruce křížalu, v druhé broušenou sklenici s kávou, a přistoupil k oknu. Spatřil jsem v zahradě učitele, i on už byl po obědě. Stál nehybně v jarní trávě a čistil si zuby párátkem. Fidelius si stoupl za mě a já vycítil, že kantora nevnímá a dívá se někam dál. Nenápadně jsem se pootočil. Kněz držel v prstech třešňovou haluz, kterou právě vytáhl z vázy: skrz bílé, růžově nadechnuté kvítky a drobné světlezelené lístky pozoroval obzor a horu, co se z něj vypínala, dělil ji proutkem vedví, na tlustou spodní část s trojitou kolonádou bílých skal a na tmavý vrcholek s bukovými háji. Ten pohled ho dočista uhranul. Vida, pomyslel jsem si – spřízněná duše.
 
+  
+
 Dostal jsem od Fidelia seznam farníků, kteří mi pomohou opravit obydlí a rádi si přilepší v nuzných poměrech. Z těch nejšikovnějších jsem byl odhodlán vybrat dělníky pro práce na obnově zanedbané stoky mezi Holanskými rybníky. Předal mi ten soupis před tím, než začal pohřeb mladého Jakuba. Ve smutečním průvodě byl pouze chlapcův otec a pozůstalí kamarádi, za nimi šla ta děvčata, která si to vyvzdorovala na rodičích. Moc jich nebylo. Očekával jsem, že se tu setkám s Kateřinou, ale nepřišla. Když jsem se na ni zeptal, jedna dívka řekla, že Katynku brzo uslyším. Vzápětí se ozvalo zvonění, divoké a hlučné, až uši zaléhaly, a po úmorně dlouhé minuty odmítalo přestat.
 
 Ve čtvrtek mi Voves přinesl zelený kabát, který schovával na památku svého otce. Měl mosazné knoflíky a vypadal jsem v něm směšně, ale padl mi dobře. Při dohlížení na stavební práce jsem si nemohl přát lepší odění; co jsem si dovezl sám, se do tak drsného sídla jako Černý mlýn nehodilo.
 
 Vyslovil jsem učiteli svůj dík a samotného mne překvapilo, že to myslím upřímně. On sám vypadal v modrožlutém kabátě mnohem hůř než já v zeleném, ale bylo vidět, že si ho zamiloval. Aby si ve škole neumazal manžety, natáhl si na předloktí černé ochranné rukávy z laciné látky. Voves mi oznámil, že co nevidět pojede do Lipé pro knihy, a protože ví, jak si potrpím na vybrané šatstvo, zapůjčí pro mě u modisty nevídaný klobouk dovezený z ciziny. Chodí se na něj dívat celé město, ale ani žádný z mohovitých Němců si ho netroufl koupit. Chtěl jsem se učitele už zbavit, tak jsem dal svolení, aby mi ten dernier cri přivezl ukázat. Musím přiznat, že klobouk jsem opravdu potřeboval, a ten Vovsův chvalozpěv ve mně vzbudil nemalou zvědavost.
 
+  
+
 S Kateřinou Kolářovou, jíž se říkalo Katynka, jsem se setkal příští neděli. Když bylo po kostele a svěcení zlatého deště, mládež někam táhla v hlučném chumlu a já ji sledoval ze stínu stromů. Dívky dělaly na mládence dlouhý nos a hrozily, že nedostanou kytičku, nebudou-li hodní, Kateřina šla uprostřed a nesla zelený stvol – připomínal trochu palmovou ratolest – a co chvíli jím někoho švihla. Brzy jsem spatřil v lukách nad Vsí bílé košile a sukně, jaro začalo být nezvykle vlahé, a zatímco já se po většinu času držel ve Věži a v blízkosti močálišť, staroveští se na polích těšili na horké léto. Sucha se zatím báli jenom škarohlídi.
 
 Zatím bylo vláhy dost. Neviditelná voda stoupala v parách z pastvin a nesrážela se, teplý vítr ji odnášel k severozápadu, aby spadla někam za hřbety Harzu. Ke mně nesl útržky hlaholících hlasů:
 
-Slepá bábo, kam tě vedu?
+_Slepá bábo, kam tě vedu?_
 
-Vij, matko, věnce,  
-naší Kateřince.
+_Vij, matko, věnce,  
+naší Kateřince._
+
+  
 
 Starou Ves jsem měl za zády. Opřel jsem se o letitý dub, právě shazující loňské listí a vyhánějící nové. Hřbetem ruky jsem setřel z čela pot a pozvedl oči k palouku, jenž se zvedal od kraje doubravy do stráně oživlé zelenou trávou, žlutými pampeliškami a vířícími bílými sukněmi. Chvíli jsem hlouček pozoroval a zkoušel vyzkoumat, v čem spočívá hra. Kateřina byla podivně vážná, jako by počínáním, jemuž se podvolila, chtěla jen ostatním vyjít vstříc, sama z něj však radost nepociťovala. V její situaci byl vůbec div, že přišla.
 
@@ -316,6 +341,8 @@ Když jsem se pak ohlédl, zrovna nasedala. Teď už se nikdo nesmál. Podali j�
 
 Došel jsem do vesnice a usedl na lavici před kostelem. Nejistě jsem se ohlédl a zaostřil zrak na stráně nad vesnicí. Žádný pohyb, žádný zvuk, jenom tušené hlavičky pampelišek, zvedající se ze zdupané trávy.
 
+  
+
 V posledním týdnu před Velikonocemi se s lidmi stala změna, byli najednou vlídnější a ochotnější, jako by nad nimi někdo zamával vrbovým proutkem. O Modrém pondělku se mi přihlásili dva zedníci, o Šedém úterý tesař s truhlářem a na Škaredou středu pokrývač. Pár šikovných chlapů mi doporučil pater Fidelius už dřív, a jakmile se rozkřiklo, že u pana barona není robota, ale dobře placená práce, začali chodit fachmani i ze Stvolínek. Až z Holan se přibelhaly dvě chromé sestry, pro něž jsem neměl zaměstnání, dokud mě nepřemluvily, že mi ušijí závěsy na okna a potahy na nábytek. Na Zelený čtvrtek odjel Francl do Boru s mírami na nová úzká okna, a když se pozdě v noci vrátil, vyklopil mi na stůl ošatku plnou jidášků, s uctivým pozdravením sklářů z Markvartovy huti. Na Velký pátek mi tesař s pomocníky zvedl o půl patra střechu; jednak aby nahradil starý krov, jednak pro lepší výhled přes koruny stromů. Na jeho práci bylo radost pohledět, i když občas si počínal divně. Bylo parno a on si stěžoval na bolest hlavy. Osobně jsem mu nahoru vynesl čtyři džbány studené vody, aby ji střídavě pil a střídavě se s ní políval, ale nepomáhalo to.
 
 V podvečer se přihnala jarní bouřka a tesař poprvé toho dne slezl ze střechy, vymočil se do houští u cesty, sebral kámen a tvrdě se jím udeřil do hlavy, to nad námi zrovna burácel první hrom. Vytryskla mu krev, stékala do obočí a pomalu zasychala. Nevšímal si toho, počkal, až bouře ustane, a potom zůstal na Věži až do noci. Hlava ho očividně přestala bolet, a když jsem se ho zeptal, co to mělo znamenat, s neochvějnou jistotou mi sdělil, že mi zachránil obydlí před úderem blesku.
@@ -350,6 +377,8 @@ Oblékl jsem se, sešel si do spíže pro kus studeného okouna, jáhlovou plack
 
 Po rozednění směřoval můj zrak jediným směrem, ale Vlhošť nebylo vidět, nebe se černě zatáhlo a spadlo pár kapek. Vyšel jsem si mezi rybníky, rozhodnutý spojit dopolední procházku s návštěvou u rychtáře a do Věže se před večerem nevracet. Zelený kabát od učitele jsem nechal doma a vystrojil se do přiléhavého černého fraku s epoletami, ptačími rameny a vysokým límcem. Pokud to jenom dovolily, načesal jsem si vlasy dopředu, jak to mužům celé Evropy předváděl lord Byron. Proti dešti jsem se vyzbrojil roztahovacím parapletem, jež se dalo použít jako vycházková hůl. Než jsem za sebou zamkl, nezapomněl jsem si vyčistit zuby – všech šedesát – drcenou mátou a uvázat si kolem krku šátek od Kateřiny.
 
+  
+
 Toulal jsem se po hrázích a náspech mezi vodou a dělal si v duchu seznam nutných oprav. Nic jsem si nezapisoval, aby mě žádný horlivý křesťan nemohl obvinit, že o nejvýznamnějších svátcích pracuji. Byl jsem vcelku spokojen s největšími rybníky a ani stav menších středověkých nádrží nebyl tak truchlivý, jak jsem předpokládal. Voda často unikala postranními cestami, protože stoka mezi rybníky byla zanesená vinou letitého zanedbávání. Do prsti vyhloubená, kamenem a maltou zpevněná koryta se zhroutila sama do sebe, asi nejhůře dopadl náhon vedoucí k bývalému Černému mlýnu. Měl jsem radost, že stále stojí kamenná památka ze všech nejmalebnější, klenutý most přes umělý, do pískovce vysekaný peřejový jez, nad nímž se na jedné straně tyčila skalka porostlá borovým lesem, nikoli nepodobná nedaleké Smrtce, a na druhé se dobrých pár sáhů propadal vodopád do tůně v kaštanovém háji. Vodní dílko vypadalo nejlépe právě z pohledu pozorovatele přicházejícího stezkou mezi rybníky, netušícího, že zde narazí na krkolomný jez, který však překoná suchou nohou po kamenné lávce, jako by se vznášel nad rozbouřenou vodou. Tímhle zážitkem jsem byl dětinsky fascinován a zopakoval jsem si ho. Když jsem pak stál nahoře na mostě a podíval se vlevo, viděl jsem za houštím probleskovat klidnou hladinu Dolanského rybníka, nato jsem shlédl přímo pod sebe, kde voda v tenoučkém jazýčku přepadávala přes ostrou hranu a v černé hloubce se kroutila a vařila pod bičem vodopádu. Zatočila se mi hlava.
 
 Obešel jsem skálu a po stráni sestoupil k tůni. Potok odtud vytékal již poklidně, napůl v hustém stromoví, napůl v zátopových loučkách, kde pod jívami a olšemi zpevňujícími břehy vytvářel zákruty. Sledoval jsem ten tok. O čtvrt míle dál se opět ztratil v podrostu, aby se nepozorovaně vpil do jiného rybníka. Viděl jsem, že všechna ústí je třeba důkladně vyčistit, a rozhlédl jsem se ve snaze odhadnout potřebný počet pracovních sil. Osm, raději deset silných chlapů ze Vsi, co se umějí rozhánět rýčem, sekyrou a lopatou, ti by měli co dělat zhruba do podzimu. Zima musí zastihnout mé rybníky čisté a opravené. Chtěl jsem se ještě jednou vrátit k terase jezu a zůstal jsem v ohromení stát: potok, který jsem sledoval až sem a jenž prokazatelně stékal celou dobu jedním směrem, ať kolmo, ze skalní stěny, anebo pozvolna, vymletým korytem, byl nyní výš než hladina Dolanského rybníka. To bylo k neuvěření – vždyť v posledních minutách jsem stoupal do mírného kopce a pořád sledoval směr vody. Nedbaje na to, že mám na sobě sváteční kalhoty, klekl jsem si do trávy a sklonil hlavu až k zemi, abych tuto šalbu opravdu důkladným prozkoumáním vyvrátil. Ale ani poměření terénních nerovností to nedokázalo: mé oči viděly jen tolik, že se nacházím výš než před půl hodinou, zhruba na úrovni zříceného Holanského hrádku, jehož jediná zeď trčí nad rybníky právě z ostrohu nad vodopádem. Bylo to nemožné, a přesto potvrzené samotným denním světlem. Voda mezi rybníky tekla tak, jak má každá voda téci, tedy dolů. Ale důmyslné dílo ji dokázalo vyvést zpět do svahu, využívajíc snad výkyvů zemské přitažlivosti nebo působení Měsíce – jinak jsem to objasnit nedovedl. Vzpomněl jsem si na otce, který byl považován za učeného alchymistu a geniálního stavitele fontán. Ten by to dokázal vysvětlit. Mně zbýval jen tichý obdiv.
@@ -360,11 +389,13 @@ V takovém rozpoložení mysli jsem se vracel podle táhlého Dolanského rybní
 
 Zakryl jsem si ústa, abych nevykřikl. Zvony odbily poledne a jejich hlas mě hnal od rybníků, utíkal jsem kroky hnanými úzkostí a nic by mě v tu chvíli nepřimělo k ohlédnutí.
 
-Smrt plave po vodě,  
+_Smrt plave po vodě,  
 nové léto k nám jede.  
 S červenými vejci,  
 s žlutými mazanci,  
-s obilíčkem zeleným.
+s obilíčkem zeleným._
+
+  
 
 Děti si hrály na návsi a mlely říkadla, aby si ukrátily čas do pondělní koledy. Zamířil jsem k domu smutku. Velikonoční výzdoba v podobě rozkvetlých zelených haluzí, jakou bylo vidět za okny všech ostatních stavení, tady chyběla. Brankou ve vratech, nad nimiž viselo vozové kolo připomínající rodovou minulost majitele, jsem vešel do dvora, vydlážděného velkými plochými kameny. Vyplašil jsem drůbež, která se rozeběhla do všech stran. Dveře rychty byly otevřené, vstoupil jsem do síně a zaklepal parapletem na zeď. Přišla mi v ústrety komorná. Po způsobu měšťanských domácností mi odebrala kabát a deštník a uvedla mě do prostorné světnice. Rázem jsem byl opět na venkově. První věcí, jež zaujala můj zrak, byl dřevěný sloup, stojící uprostřed místnosti a podpírající podélný stropní trám, jenž nesl tenčí trámy příčné. Světnice ladila mému oku: bílá pec s obíleným zděným komínem a dvířky vyvedenými ven do síně, tři dvojitá okna s mosaznými kličkami, dvě postele s vysokými pelestmi a nastlanými pruhovanými duchnami. Po stranách lůžek stály dvě malované šatní truhly. V rohu vedle stolu byla umístěna mahagonová skříňka se čtyřmi zásuvkami, přikrytá vyšívanou dečkou, od jejíž bělosti se jasně odrážela čerň krucifixu a kožená vazba bible.
 
@@ -420,29 +451,37 @@ Viděl jsem, že si přeje, abych jí něco vyprávěl; po obědě stejně nebyl
 
 Toužila po poznání víc než po čemkoli jiném, tolik jsem pochopil během toho poklidně stráveného odpoledne. Kateřina se sice neusmála, ani když jsem dal k dobru pár historek z vídeňského dvora, ale nebyla aspoň tak smutná jako v posledních dnech. Potom na okno zaťukala děvčata od sousedů, aby se s nimi šla podívat na velikonoční hru. Odpověděla, že letos nepůjde, protože má lepší zábavu. Když si ale jedna smělejší dívka všimla, že v světnici vedle rychtáře, kterému spadla hlava na prsa a tvrdě spí, sedí host, byl jsem také pozván. Zeptal jsem se, co budou hrát. Pan baron se bude bavit, ujistila mě, mám jít určitě s nimi, protože dávají frašku o vzkříšení. Pozvání jsem přijal a vyčkávavě pohlédl na Kateřinu. V zeleném oku jsem zahlédl hněv, zatímco modré se podvolilo: dobrá tedy, půjde taky. Vstala a došla si do komory pro šál, já se potichu zvedl, abych nevzbudil spícího rychtáře, a požádal v letní kuchyni služku o své paraple. V malém výklenku ve stěně, který se téměř ztrácel mezi pánvemi, kastroly, sádelňáky, kruhadly, mlýnky na mák a formami na pečení, jsem spatřil Odradka. Ležel na boku v dřevěných neckách na praní drůbků a díval se na mě široce rozevřenýma očima. Kolem těla měl omotanou krajkovou stuhu, kterou jsem toho dne daroval Kateřině. Vypadal v ní jako nehybné, tiše dýchající, bdělé dítě.
 
+  
+
 Představení se konalo v hospodě. Dívky, jež se mi představily jako Cilka a Markéta, mi vysvětlily jeho historii: dříve, před dávnými lety, se hrálo v kostele, potom to biskup zakázal, ale hrálo se dál. Odvedli za to v železech pět sedláků, už je to dlouho, ti se do Vsi nikdy nevrátili; jejich ženy proseděly několik nocí v kládě, jedna z toho měla smrt. Od té doby se hry provozovaly tajně, většinou v hospodě a někdy po stodolách, vždy však s vědomím místního kněze, před nímž se ve zpovědnici nic neutají. Bývalý staroveský farář hraní toleroval, a občas se dokonce přišel podívat, zato ten nový jen skřípe zuby a čeká na příležitost, jak velikonoční komedii odzvonit. „Jenže našinec si hraní vzít nenechá,“ řekla s jistotou Markéta, a když jsem se podíval na Kateřinu, potvrdila to kývnutím hlavy.
 
 Hospoda byla plná k prasknutí a vyzdobená jarní zelení. Mezi prkna v podlaze byly nastrkány nařezané břízky, ze stropních trámů visely kytice rozkvetlých višňových a hruškových haluzí a v oknech zářil zlatý déšť, který propouštěl světlo, ale zabraňoval nahlédnout dovnitř. Přišli jsme pozdě a zůstali až vzadu, usazeni na dlouhých stolech, odsunutých ke stěně. Hra už dávno začala a zprvu nebylo snadné orientovat se v ději. Na jevišti deklamoval mladík oblečený za pastýře:
 
-Ukaž, mistře, otce svého,  
-toho pána nebeského.
+_Ukaž, mistře, otce svého,  
+toho pána nebeského._
+
+  
 
 Osloveným mistrem byl, jak jsem se dovtípil, Ježíš Nazaretský, kterého přišli prosit, aby vykonal zázrak. Objevila se tam i žena, kterou hrál útlý, velice mladý hoch v tmavé paruce. Hlas mu přeskakoval z bručivého basu do skřípavé fistule, což v hledišti vyvolávalo smích i při pasážích zcela vážných. Jinoch představoval Máří Magdalenu a dělal naivně lascivní pohyby. Kateřina mi řekla, že rok předtím hrála Magdalenu ona a moc se jí to líbilo, přestože se o tuhle oblíbenou roli mládenci vždycky poperou. Zeptal jsem se, jak loňského adepta přesvědčila, aby se Magdaleny vzdal, a ona odpověděla, že ho na jejich zahradě shodila do potoka.
 
 Dívky sedící před námi na nás zasyčely, tak jsme zmlkli a sledovali hru. Následující verše doprovodili diváci rozpustilým smíchem:
 
-Straka na strace přelétla bystřinu,  
-maso bez kostí probodlo dívčinu.
+_Straka na strace přelétla bystřinu,  
+maso bez kostí probodlo dívčinu._
+
+  
 
 Kus byl podivně obhroublý na to, že čerpal námět z bible. Ale jindy tak ctnostní sedláci a řemeslníci se dobromyslně smáli a nikdo se nepohoršoval. Úleva, uvolnění, smíchem překryté přiznání vlastní tělesnosti se jim tetelilo v přimhouřených očích a odtud se šířilo zázračně přeměněnou hospodou, dralo se ven otevřenými okny, v nichž voněly barevné kytice. Bláznění nabíralo rychlost a najednou se nedalo zastavit, byl to rozjetý svatební vůz, řítící se do zatáčky k chatrnému mostu. Kdo by se neveselil?
 
 Seděl jsem jako přikovaný. Ježíš chodil po vodě, představované azurovými skleněnými korálky, a stěžoval si, že mu apoštolově nerozumějí a žádný z nich mu nechce umýt nohy, jenom Jidáš z toho má zvrácené potěšení, ale to si je raději umyje Ježíš sám.
 
-Druhové moji veselí,  
-smrt nás už brzy rozdělí.
+_Druhové moji veselí,  
+smrt nás už brzy rozdělí._
 
-Tomáši, Petře, Jane rozmilý,  
-pro vás tu umírám, a vy jste opilí.
+_Tomáši, Petře, Jane rozmilý,  
+pro vás tu umírám, a vy jste opilí._
+
+  
 
 Potom se mezi stromky objevila dřevěná loďka na kolečkách, s velkou plátěnou plachtou. Pomalu dojela k smutnému Ježíši. Nastoupil do ní a několikrát obeplul jeviště tak, že se držel stěžně a plavidlo postrkoval dopředu, zatímco pod kýlem byly vidět jeho bosé nohy. Když si zaryl do nohy třísku a převrátil loď, chechot sedláků mě ohlušil. Střelil jsem okem po Kateřině; dívala se do okna, jako by o něčem přemýšlela, nebo snad někoho zahlédla mezi kvítky zlatého deště. Skutečně se tam mihl nějaký tmavý stín.
 
@@ -450,16 +489,20 @@ Pak přišlo něco neočekávaného – jako z jiné hry. Zpoza kulis vystoupil 
 
 Clonil si rukou oči a odříkával tato slova:
 
-Kdepak je kmotřička,  
+_Kdepak je kmotřička,  
 babička stařičká?  
 Do rybníka nechtěla,  
 po vodě se vrátila,  
-mě nebohého zcela zahubila.
+mě nebohého zcela zahubila._
+
+  
 
 Nato se za Jakubovými zády zvedl do nadlidské výšky ohyzdný panák bez tváře, upletený ze suchého rákosí a ověšený zelenými mašličkami. Po jevišti ho vodili tři pořízkové s obličeji začerněnými uhlím. Příšera se pokradmu a za hrobového ticha v sále přiblížila k oběti, zvedla pařáty a udeřila. Jakub se skácel jako špalek a přízrak zmizel za jevištěm. Chór zarecitoval:
 
-Jakuba mázla po hlavě Pepina,  
-včerejší junák dnešní je zdechlina.
+_Jakuba mázla po hlavě Pepina,  
+včerejší junák dnešní je zdechlina._
+
+  
 
 Členové chóru pak přistupovali k nebožtíkovi, zvedali mu nohy a ruce a zase je pouštěli, aby bouchly o jeviště a bylo jasné, že je po všem. Dokonce ho tahali za nos a foukali mu do uší a on si to nechal líbit, nadobro mrtvý.
 
@@ -467,29 +510,37 @@ Tu mezi ně přišla Máří Magdalena a začala naříkat, co že se to s Páne
 
 Druhá Nezasmálka seděla vedle mne, strnulá s rukou před ústy, třeštící své podivné oči sama na sebe.
 
-Čím bych já ho pomazala,  
-abych jemu život dala?
+_Čím bych já ho pomazala,  
+abych jemu život dala?_
+
+  
 
 Takto promluvila ta na jevišti, obracejíc se s otázkou přímo na diváky. Ti byli náhlým zvratem ve hře zaskočeni podobně jako my. Nikdo neporadil, za dívčími zády se hihňalo pět hlasů:
 
-Nezasmálka masti mísí,  
+_Nezasmálka masti mísí,  
 mrtvé tělo snadno vzkřísí  
 Duše však, ta nevstane,  
-černá v pekle zůstane!
+černá v pekle zůstane!_
+
+  
 
 Zlomyslná slova doprovodil ďábelský smích. Už jsem málem odešel, hra se mi přestala líbit, ale vtom se Nezasmálka sklonila k mrtvému, skropila mu skráň vodou a políbila ho. Mladík otevřel oči, vyskočil na nohy a objal ji. Chór, nyní už slavnostně, dodal:
 
-Jako každé boží dílo  
-vše se v dobré obrátilo.
+_Jako každé boží dílo  
+vše se v dobré obrátilo._
 
-Víra, láska, žert a smích  
-vposled vykoupí tvůj hřích.
+_Víra, láska, žert a smích  
+vposled vykoupí tvůj hřích._
+
+  
 
 V poslední větě zazněl falešný tón. Ale jaký? Snad že neodpovídal předchozím slokám. Obecenstvo pískalo, dupalo a bouchalo sklenicemi o stoly. Když se herec představující Nezasmálku uklonil, nechal si z hlavy spadnout světlou paruku a tím se odmaskoval – poznal jsem v něm mládence, který posledně přivedl osla, abych na něm jako vítěz Kateřininy soutěže vedl procesí. Diváci mu teď provolávali slávu a i já jsem hlučně tleskal a dvakrát zvolal „bravo“. Katynka seděla a mlčela, opět hledíc na okno. Teď bylo jasně vidět, že za kyticí zlatého deště někdo stojí a poslouchá.
 
 Napadlo mne, že je to učitel. Ale ten hned nato přišel na jeviště – herci ho přivedli zezadu jako v opravdové opeře a on se ukláněl a děkoval divákům za přízeň. Dovtípil jsem se, že pašijovou frašku s chasou nacvičil on – on je i autorem přepisů v postavách a ději. Šel jsem mu k pódiu pogratulovat.
 
 Uviděl mě, zčervenal a seskočil dolů. Když přijal mé uznání, hluboce se uklonil, ale viděl jsem na něm, že je to spíše posměch než úcta. Vrátil jsem se k svému místu vzadu v sále, ale Kateřina tam už nebyla.
+
+  
 
 S učitelem jsem se viděl druhý den ráno. Velikonoční pondělí začalo vesele. Od časného jitra jsem zvenčí slyšel mužský a ženský smích a ještě v posteli jsem se podivoval nad tím, s jakou chutí dokáže staroveská mládež dodržovat ten tradiční český zvyk. Vyhlédl jsem z úzkého okna obráceného na východ, slunce viselo nad horou jako svůj vlastní obraz, žhavé zlaté vejce, od něhož chytl bukový les a rozhořel se jasnou červení, stvrzující příchod jara.
 
@@ -605,13 +656,17 @@ Učitel nedůtklivě prohlásil, že ve hře je všechno, co tam být má. Na ž
 
 Abychom si to vyjasnili, zopakoval jsem mu závěrečné verše, jak jsem si je pamatoval:
 
-Víra, láska, žert a smích  
-vposled vykoupí tvůj hřích.
+_Víra, láska, žert a smích  
+vposled vykoupí tvůj hřích._
+
+  
 
 Voves si je nechal přeříkat ještě jednou a potom se zasmál. „To jste se, pane barone, s prominutím přeslechl. Ty verše jdou ve skutečnosti takhle:
 
-Víra, láska, žertva, smích  
-vposled vykoupí tvůj hřích.“
+_Víra, láska, žertva, smích  
+vposled vykoupí tvůj hřích.“_
+
+  
 
 „Tedy žertva! Začíná mi to docházet. Měl jste na mysli oběť?“
 
@@ -761,6 +816,8 @@ Ani jsem nedořekl, když mi kolem ucha zasvištělo a přeseknutý prut spadl d
 
 Nato se Katynka beze slova otočila a vykročila po cestě vedoucí z lesa.
 
+  
+
 Po Velikonocích se ochladilo a sluha Francl se roznemohl. Ležel pod stohem peřin, nechal si vařit jeden grog za druhým, a když jsem ho přišel pozdravit a poptat se, jak mu je, požádal mě v přítomnosti slzící služebné, abych mu přivedl velebníčka. Vyvedl jsem koně ze stáje, sám jsem si ho osedlal a vydal se třešňovou alejí do vedlejší vesnice pro lékaře. Tam mi řekli, že doktor odjel na Boží hod k sestře do Jestřebí, tak jsem otočil koně a jel po zemské silnici na východ, maje potěšení z toho, jak mi pocestní uskakují z cesty a sedláci na vozech vstávají a smekají hučky. Šosy zeleného kabátu za mnou vlály jako prapor volnomyšlenkářů, když jsem já, baron, hledal lékaře pro pouhého sluhu. Ta myšlenka mi dělala dobře.
 
 Dlouho předtím, než štíhloboký jestřebský hrad vpluje do zorného úhlu cestovatele, nabídne se jeho očím podivuhodná skála, tyčící se z mírného chlumku nad vesničkou jménem Provodín. Té skále se říká Spící panna, nyní se mi celá vystavila k dlouhému pohledu ze sedla. Neprostupné trní pod skálou připomínalo rozpuštěné vlasy a kámen z nich vystupoval jako tvář ležící dívky, s klenutým čelem i bradou, nosem trčícím vzhůru, ústy pootevřenými v snění. Druhý z provodínských kamenů, o něco nižší skalka za obilným polem, vypadal jako vzdutá prsa, třetí pak připomínal pokrčená, mírně zvednutá kolena. Jako by tu země vzala na sebe lidskou podobu. Byla to země klidná, v nerušeném spánku.
@@ -770,6 +827,8 @@ Když jsem dorazil na místo, zastihl jsem doktora na lůžku. Klempíroval, ale
 Z toho dne mi utkvělo v paměti ještě jedno setkání – pokud tu událost lze vůbec takto označit. Na zpáteční cestě z Jestřebí jsem držel koně v mírném klusu, jeli jsme od vísky Kvítkov směrem k samotě zvané Pece a cestu k zemské silnici si krátili táhlou úzkou roklí protínající borový les. Dorazili jsme na pusté místo, kde byla skalní stěna poznamenána záseky pro trámy jakési dávno rozpadlé stodoly. Zbyl po ní ještě čmoudem zčernalý pruh na kameni, jarním býlím zarostlé haldy ztrouchnivělého dřeva a zápach plísně. Pobídl jsem koně, abych už se z té končiny vymotal, když tu jsem na skalním hřbetu několik sáhů nad sebou uviděl muže. Byl celý v černém rouchu připomínajícím sutanu a uháněl mezi borovicemi jako o život. Dupání a funění dolů nedolehlo, ale jak běžel podél srázu, zaleskly se pod sukněmi, které si držel rukama, okované podrážky. Černovlasou hlavu měl zasutou mezi rameny, pár kapek jeho potu spadlo na koně a ten se pode mnou vzepjal. Chlap si toho nevšiml. Než jsem zvíře uklidnil, byl tentam.
 
 Myslel jsem, že mě klame zrak, nechtělo se mi věřit, že by to mohl být on. Ale nemohla v tom být mýlka, natolik jsem byl při smyslech. Tím osamělým lesním běžcem byl staroveský farář Antonín Fidelius. Vzpomněl jsem si na revírníkova slova o tom, jak jsou tu lesy nebezpečné. Ukrytý pod skálou jsem tedy počkal na pronásledovatele, bambitku s křesacím zámkem připravenou. Ale nedočkal jsem se. Pokud něco hnalo faráře černým lesem, pak to nebylo za ním, ale v něm.
+
+  
 
 Každý den plakala Kateřina na Jakubově hrobě, až se rov zazelenal. Vyrašilo na něm žito, bylo ještě nízké, ale už dozrávalo. Na polích si obilí dávalo na čas, už několik týdnů nesprchlo a vědmy plakaly, když se jich přišli ptát na počasí. O to zázračnější byl ten zelený hrob. Lidé se na něj chodili dívat, něco takového tu nikdo nepamatoval. A tak se Jakubovi dostalo po smrti přinejmenším tolik úcty, kolik se za života dočkal nenávisti.
 
@@ -803,13 +862,17 @@ Na Kozel jsme vystoupili chvíli před dvanáctou. Cestou nás vedl měsíc, pom
 
 Poslední čtvrtinu cesty jsme se nemuseli spoléhat na měsíček, temeno kopce zářilo do noci jako královská koruna. Dorazili jsme na vrchol a hned nás přivítaly ohněm rozpálené oči a opojený smích. Kraj pod horou byl tichý, tady nahoře se do všech stran rozléhal barbarský jek.
 
-Leť si, babo, leť,  
-svátek ohně svěť!
+_Leť si, babo, leť,  
+svátek ohně svěť!_
+
+  
 
 Podíval jsem se na chronograf – minuta po půlnoci. Duben byl za námi, začal květen. Hořící nasmolená košťata létala do výše, dělala krkolomné přemety a jako srpnové hvězdy se zas řítila dolů, hlavy mladých lidí před nimi uhýbaly a ječely strachem i veselím. Pokud čarodějnice ještě nebyla na troud, musela znovu do ožehnutých prstů a zase nahoru, dokud se z ní nesypal popel. Pak ji hodili na vatru, ať tam dohoří. Nad nízkými ohni se míhaly nahé nohy děvčat, zdálo se, že jsou lehčí než vzduch a sám žár ohně je nadnáší, takže se nemůžou spálit. Byla to krásná, nebezpečná iluze, zvláštní tanec bez hudby a choreografie, zato na ostří nože.
 
-V našem divém reji  
-toč se, čaroději!
+_V našem divém reji  
+toč se, čaroději!_
+
+  
 
 Největší vatra plála do výšky bezového keře. Dívky s chlapci kolem ní vířili v širokém kole, držíce se kolem pasu. Řetěz jejich těl nesměl prasknout, šlo o to, dostat se od ohně co nejdál a tím k němu přitáhnout ty, co byli na druhé straně. V této hře vítězili ti nejsilnější, kdo nevydržel žár, musel se pustit a jít z kola ven.
 
@@ -821,11 +884,13 @@ Jako rychlý prst, který protne plamen svíčky a nespálí se, tak Kateřina p
 
 „Máme královnu, máme královničku!“ volaly dívky a mladíci ji zvedli na ramena a za bujarého prozpěvování obešli s ní kolem ohnivého palouku.
 
-Královnička Máje  
+_Královnička Máje  
 z kouzelného háje  
 nese srdce na udici  
 po jezeře, po vesnici,  
-komu ona dá je?
+komu ona dá je?_
+
+  
 
 Mně sotva, pomyslel jsem si smutně. Mne s učitelem si nikdo nevšímal. Do kola pádících, dusajících, skotačících těl jsme nepatřili. Dovedli jsme se jen dívat a dávat pozor, abychom neudělali neopatrný krok. A oni hleděli na hvězdy a každým svým krokem roztáčeli Zemi.
 
@@ -836,6 +901,8 @@ Vovsovy myšlenky asi bloudily v podobných kruzích. Zavrávoral, sundal si za�
 Najednou sebou škubl, jako by ho píchla vosa. Oči ale neotevřel. A já, stejně rozpálený, omámený a vyčerpaný jako on, jsem si v tom vražedném žáru sňal z hlavy klobouk a prsty si prohrábl vlasy. Suché jak troud.
 
 Pomyslel jsem na smrt. Tady nahoře a v tuto noc mne její představa neděsila. Za prázdnými okuláry brejliček se mi zavřely oči a poddaly se letu kolotoče.
+
+  
 
 Ležel jsem v kolíbce z kapradí, houpala se ze strany na stranu a zavírala mi sotva probuzené oči. Už jsem nechtěl spát.
 
@@ -885,8 +952,10 @@ Dívky mne dovedly do dubového háje s mýtinou, kterou jsem už znal. Pod úst
 
 Chvíli bylo ticho a pak se do večerního zpěvu ptáků vmísil dívčí hlas:
 
-Roje, co se v máji rojí,  
-za plný vůz sena stojí.
+_Roje, co se v máji rojí,  
+za plný vůz sena stojí._
+
+  
 
 V tu chvíli jsem zaslechl bzučení včel a instinktivně se přikrčil. Nikde se však nic nehnulo, jenom lístky v koruně stromu se chvěly.
 
@@ -896,18 +965,24 @@ Tři z dívek vystoupily zpoza stromů, Kateřina mezi nimi nebyla. Nejmladší,
 
 Marie, jež seděla nejvýš, začala kotníky prstů tlouct do malé mosazné pánve a k tomu odříkávala:
 
-Nebe je šedé, den se nám šeří,  
-hromu se dočká, kdo v Peruna věří.
+_Nebe je šedé, den se nám šeří,  
+hromu se dočká, kdo v Peruna věří._
+
+  
 
 Rachotila při tom nehty o dno pánvičky a já zaslechl burácení hromu. Agáta kousek pod Marií na popěvek navázala:
 
-Nebe se stříbří, sežeh oheň mez,  
-kdo zůstal v poli, blesk se po něm svez.
+_Nebe se stříbří, sežeh oheň mez,  
+kdo zůstal v poli, blesk se po něm svez._
+
+  
 
 Po posledním slově srazila pěsti, až to třesklo a z dlaní jí vyšlehly jiskry. Nyní jsem zahlédl, co v nich svírá: dva motouzem spojené křemeny. Prohlédl jsem si rukávy a ramena kabátu, zda na nich jiskry ještě nežhnou. Ale hned na mě dopadla sprška kapek. Podíval jsem se nahoru a spatřil Barboru, jak zvedá kožený měch s vodou a polévá kmen.
 
-Nebe je černé, krůpěj už padá,  
-z babizny suché holka je mladá.
+_Nebe je černé, krůpěj už padá,  
+z babizny suché holka je mladá._
+
+  
 
 Třikrát zopakovaly dívky svou litanii a umlkly, slezly ze stromu na zem a zmizely mi z očí. Ihned je vystřídala zbylá dvě děvčata z Kateřininy májové družiny, jejich jména jsem neznal. Každá přiběhla z jedné strany a hned se začaly honit kolem dubu. Na krku měly kožené vaky a z nich pily vodu. Nepolykaly ji, ale prskaly ji po sobě. Kmen byl za okamžik zmáčený a já s ním, o to zřejmě šlo.
 

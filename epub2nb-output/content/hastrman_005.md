@@ -1,11 +1,12 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Připomínají-li postavy, místa  
+_Připomínají-li postavy, místa  
 a děje tohoto románu skutečný svět  
-a jeho obyvatele, jde o iluzi.
+a jeho obyvatele, jde o iluzi._
 
-Umění a pravda:  
+_Umění a pravda:  
 dvě zlaté rybky hledící si z oka do oka,  
-z akvária do akvária.
+z akvária do akvária._
