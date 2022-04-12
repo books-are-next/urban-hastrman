@@ -1,15 +1,15 @@
 {
   "author": "Miloš Urban",
   "contenttype": "prose",
-  "identifier": "urban-hastrman-a1fa301",
+  "identifier": "urban-hastrman-bb36df8",
   "languagecode": "cs",
   "modified": "2018-02-08T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Hastrman",
-  "revision": "a1fa301",
+  "revision": "bb36df8",
   "generatedAt": {
-    "date": "Tue Apr 12 2022 09:02:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649754143407
+    "date": "Tue Apr 12 2022 09:15:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649754931289
   },
   "documents": [
     {
@@ -95,13 +95,13 @@
     {
       "title": "Kniha první • Hastrman",
       "file": "hastrman_008.html",
-      "words": 2,
-      "chars": 11,
-      "ideas": 1,
+      "words": 59436,
+      "chars": 347678,
+      "ideas": 943,
       "role": "chapter",
       "order": 4,
       "prev": "hastrman_007.html",
-      "next": "hastrman_009.html",
+      "next": "hastrman_011.html",
       "toc": [
         {
           "index": 0,
@@ -113,55 +113,15 @@
       ]
     },
     {
-      "title": "Hastrman",
-      "file": "hastrman_009.html",
-      "words": 24563,
-      "chars": 144089,
-      "ideas": 475,
+      "title": "Kniha druhá • Hastrman",
+      "file": "hastrman_011.html",
+      "words": 45071,
+      "chars": 269742,
+      "ideas": 902,
       "role": "chapter",
       "order": 5,
       "prev": "hastrman_008.html",
-      "next": "hastrman_010.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hastrman",
-      "file": "hastrman_010.html",
-      "words": 34871,
-      "chars": 203578,
-      "ideas": 467,
-      "role": "chapter",
-      "order": 6,
-      "prev": "hastrman_009.html",
-      "next": "hastrman_011.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Kniha druhá • Hastrman",
-      "file": "hastrman_011.html",
-      "words": 2,
-      "chars": 11,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 7,
-      "prev": "hastrman_010.html",
-      "next": "hastrman_012.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -173,74 +133,14 @@
       ]
     },
     {
-      "title": "Hastrman",
-      "file": "hastrman_012.html",
-      "words": 21660,
-      "chars": 129786,
-      "ideas": 444,
-      "role": "chapter",
-      "order": 8,
-      "prev": "hastrman_011.html",
-      "next": "hastrman_013.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hastrman",
-      "file": "hastrman_013.html",
-      "words": 23409,
-      "chars": 139945,
-      "ideas": 457,
-      "role": "chapter",
-      "order": 9,
-      "prev": "hastrman_012.html",
-      "next": "hastrman_014.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hastrman",
-      "file": "hastrman_014.html",
-      "words": 55,
-      "chars": 354,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 10,
-      "prev": "hastrman_013.html",
-      "next": "colophon.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž • Hastrman",
       "file": "colophon.html",
-      "words": 83,
-      "chars": 539,
-      "ideas": 11,
+      "words": 138,
+      "chars": 893,
+      "ideas": 25,
       "role": "colophon",
       "order": null,
-      "prev": "hastrman_014.html",
+      "prev": "hastrman_011.html",
       "next": null,
       "toc": [
         {
@@ -260,9 +160,9 @@
       "ideas": 1880
     },
     "chapters": {
-      "words": 104602,
-      "chars": 618001,
-      "ideas": 1867
+      "words": 104547,
+      "chars": 617647,
+      "ideas": 1853
     }
   }
 }
