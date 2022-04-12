@@ -1,6 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
+
+  
 
 Výbuch. Snad to tak musí být.
 
@@ -62,6 +65,8 @@ Novomlýnská přehrada pohltila všechny středověké rybníky i s propojovac�
 
 Druhým důvodem pro stavbu přehrady bylo vysušení věčně vlhkého kraje, jeho pověstných močálů a záplavových luk. Povedlo se. Přehrada do sebe vsála všechnu vláhu; kupodivu už ji nebyla schopná předat tam, kde jí bylo zapotřebí. V jejím okolí jsou dnes mělké písečné doly. Vítr je tu obzvlášť ostrý, prý od války, a rozfoukává písek po kraji. Na okraji lesů vznikají bílé návěje, ale sníh to není. Tomu, kdo je nadán zlověstnou obrazotvorností, připomínají saharské duny. Nad širou vodou vichr nic nebrzdí, snadno zde nabírá rychlost vichřice a vysílené smrkové lesy ho nestačí lámat – naopak, to on dělá ze stromů třísky. V polomových prolukách se rychle usazuje písek.
 
+  
+
 Neměl jsem tam chodit. Mohl jsem si domyslet, že den po útoku budou trhaviny střežit. Na správnou stopu mne zavedly noviny – paradox všech paradoxů. „Pachatel kupodivu nevyhodil do vzduchu sklad s průmyslovou trhavinou, nacházející se v utajované lokalitě v okolí Ralska.“
 
 Odtud je to primitivní. Má cesta vede rovnou do vojenského prostoru, na bývalé letiště sovětské okupační armády. Je veřejným tajemstvím, že jsou tu tajné hangáry ukryté pod navršenou zeminou a je jich tolik, že kromě letadel se tu dalo poschovávat nepředstavitelné množství vojenské munice. Dnes je chudá česká armáda pronajme každému, kdo dobře zaplatí.
@@ -88,7 +93,11 @@ Oči přisvědčují spolu s ústy. Ušetřím ho, ale odnese to místo něj ně
 
 Nechám ho v autě. Pouštím zbraň do vody a brodím se ke břehu, psi jsou pryč a kolem nádrže je hrobové ticho. Příště, říkám si, budou sklízet ti, kteří zaseli. Pěšáky nechám na pokoji. Starý hlídač byl nevinný, a přece přišel o život. Děje se to den co den. Je nejvyšší čas, aby začali pykat viníci.
 
+  
+
 Všecko se nezměnilo. Něco zůstalo stejné. Měl jsem onehdy cestu lesem, a že jsem nedával pozor, jak složitě se pěšina dělí, zabloudil jsem. Les strádal suchem, v olámaném, poddolovaném kraji to nebylo neobvyklé. Rychle jsem ztrácel sílu. Stromoví se však rozevřelo a přede mnou byla tůň. Přidřepl jsem na travnatém břehu a natáhl ruku, abych nabral vodu a osvěžil se. Ruka mě zradila, odmítla utvořit misku a ponořit se pod hladinu. Nechal jsem ji klesnout podél těla a napřímil se. Upřeně jsem hleděl do vody. Byla čistá, ale zdála se černá kvůli jehličí na dně. Teď bych tam nepotopil ruku za nic na světě. Voda se dala prohlédnout jen v určitých místech – tam, kde tmavým nánosem zlatě probleskoval písek. Co všechno v té vodě může být? napadlo mne. Asi neskrývá nic jiného než možnost, že se v ní něco skrývá. To mi připadalo strašné. Voda se vůbec nehýbala. Mohlo v ní na mě číhat všechno, a nemuselo tam být nic. Jedno horší než druhé. Obešel jsem tůňku a zalehl do trávy tam, kde byl břeh nejnižší a dno zcela temné. Vyklonil jsem se přes okraj a vpil se očima do hladiny. Ani se nepohnula, její hladký rovný povrch nenarušila jediná vlnka. Spatřil jsem sám sebe. Kromě obrazu třeštícího pohled na předobraz tam nebylo nic. Dno zmizelo, hloubka tůně byla nezměrná a já nevěděl, kde je dole a kde nahoře. Dostal jsem závrať. Pak jsem utekl. V té černé vodní jámě jsem byl úplně sám.
+
+  
 
 Měnit jednou dané, zasahovat do toho, co tu vždycky bylo, je dovoleno pod jednou podmínkou: že stvoříme dílo lepší, určené k uctění toho či těch, kdo stavěli v krajině hory a napouštěli jezera; dílo prostřené k oběti těmto stavitelům.
 
@@ -185,6 +194,8 @@ Nervózně se uchechtl. „Vždycky jsem se bál teroristů, ale teď vidím, ž
 „Většinu roku v Praze, kde tam bydlí, nevím. Ale bývá i tady na severu. Pod Novým Borem má ranč, chová tam koně. Možná byste ji zastihl doma. A bacha – hlídá ji ochranka.“
 
 Scenérie na obrazovce se změnila. Objevil se New York, Manhattan z ptačí perspektivy. Vycházím na chodbu. Slyším, jak si Otrla oddechl. U schodů se zaposlouchám. Všude je ticho, jenom z ložnice se ozývá tlumený hlas. Otrla zavolal na policii. Seberu pohrabáč a jdu zpět. Když mě vidí ve dveřích, upustí sluchátko a běží k oknu. Udělám dva skoky přes pokoj a podrazím mu nohu. Rozplácne se na parketách, zavře oči a přikryje si rukama hlavu. Ve sluchátku se opakovaně ozývá něčí „haló“. Jedinou ranou rozetnu aparát vedví, pak namířím pohrabáčem na televizor a mrštím ho mezi mrakodrapy. Obrazovka pukne a potemní, vyšlehne z ní blesk a pojistky vyhodí proud. Na ležící postavu prší sklo.
+
+  
 
 Ranč a jeho pozemky se nalézají v půli cesty mezi Sloupem a Novým Borem, v proláklině mezi zalesněnými homolemi, porostlými smrky a buky na temeni a na úpatích kaštany. I tady je v kopcích zakletý cenný kámen, ale těžit se tu určitě nebude.
 
@@ -300,6 +311,8 @@ Vchází hlídač. Když mě vidí, překvapeně otevře pusu a pohlédne na Bri
 
 Ale než strážný oběhne dům, už jsem u zdi, za níž, jak vím, je silnice. Stojí tu strom, je to akát, na dálku cítím v jeho žilách vodu. Napřahuje ke mně větve jako vlídnou náruč. Trny mi trhají dlaně a čelo, když šplhám vzhůru, ta malá oběť stojí za to, protože budu zachráněn. Našel jsem svůj žebřík a stoupám po něm.
 
+  
+
 Nechávají mě čekat. Na botách mám bláto a jehličí. Vyhaslý doutník odložím na plechový talíř popelníku. Je středa, nejhorší den v týdnu. Den úředníků okresního báňského úřadu v České Lípě.
 
 Když se dveře ředitelské kanceláře dlouho neotvírají, zabouchám na ně. Potah z umělé kůže rány ztlumí na sotva slyšitelné klepání. Dveře se nicméně otevřou. Stojí v nich jeliman, jméno mu není rozumět, zato funkce – asistent ředitele – zní jasně. Protiví se mi, ale ublížit mu nechci. Dušuje se, že pan ředitel se dozví cokoli, co mají občané na srdci ohledně těžby. Ptá se, jestli bydlím ve strategické oblasti. Zvednu obočí. Popraskal mi po odstřelech dům? Zbláznil se mi z rámusu pes? Zasměju se a vrtím hlavou – ne, ve strategické oblasti nebydlím, dřív, to ano. Asistent řekne: pan Kreuz nemá čas ani energii na to, aby vyslechl každého zvlášť, svou stížnost předložte mně.
@@ -394,6 +407,8 @@ Vypadá zmateně. „Můj hlas je pouze poradní. Já řeknu ne, v Praze řeknou
 
 Znechutil mě. Nechávám ho tam samotného s jeho radostí, že se mu podařilo vyváznout se zdravou kůží.
 
+  
+
 O zatopení mého kraje se rozhodlo po válce, tamní kopce se začaly odtěžovat krátce nato. Vysoké bylo poníženo, nízké povýšeno. Nebylo psáno, že to tak bude? Možná si to někdo špatně vysvětlil. Krajina ztratila své dominanty i své propasti, zploštila se – stejně jako duše lidí, kteří v ní – a z ní – žijí. Česká část obyvatel Staré Vsi byla rozstrkána po okolí, většina skončila na panelových sídlištích v České Lípě, z jejich dětí jsou buď horníci v uranových dolech, dnes nezaměstnaní, či jejich manželky. Kam se podělo německé obyvatelstvo Staré Vsi? Bylo vyhnáno za hranice. Kdyby ti lidé směli zůstat, asi by o svém kraji nenechali rozhodovat jiné. Ještě by tu stál kámen na kameni a čtrnáct rybníků a jedna vesnice by se neztratilo v jediné přehradě.
 
 Země řve bolestí, vidím její vytřeštěné oči, její dokořán rozevřená ústa: Spící panna už nedříme, už nezívá, je to skála volající o pomoc. Ležím v novém mělkém rybníčku kus cesty od Provodína a skrz průzračnou vodu hledím na tmavnoucí nebe. Čekám. Na břehu se vrší hromady bílého písku, opodál odkrývá travnatý drn lopata bagru. Pod trávou je písek, zdánlivě nevyčerpatelná zásoba. Jámy se zaplňují vodou z Novozámeckého rybníka, ale jak dlouho tam ještě nějaká voda bude? Hladina klesá čím dál níž. Zato bílých vodnatých jizev v krajině přibývá. Ležím v jedné z nich a nevím, co udělat, abych ji zahojil. Umím nahnat lidem strach, ale vždycky se oklepou a plundrují dál. Umím vykonat pomstu, ale od té je k nápravě strašně daleko.
@@ -402,22 +417,30 @@ Začínám pochybovat o účinnosti teroru, který jsem rozpoutal ve jménu msty
 
 Rypadlo stojí, na písečné jámy se snesl soumrak. Sedám si ve vodě ponořen po krk a rozhlížím se po světě lidí. Vidím postavu, krade se ze stínu lískových keřů a míří k buldozeru. Má něco pod paží. Není to Molotovův koktejl ani pekelný stroj. Je to velký svinutý papír. U železného kolosu je rozvinut, přitisknut na žlutý lak a přichycen v rozích čtyřmi ústřižky izolepy. Rozeznávám v šeru mrštné pohyby, dlouhé vlasy, zelenou bundu, modré kalhoty. Nedokážu určit, zda je to chlapec, nebo dívka. Než se potichu zvednu a vystoupím na břeh, jenž není žádným břehem, nýbrž okrajem mokvající rány, zmizí postava stejně nenápadně, jako se objevila. Jdu k plakátu, který tu zanechala, čtu velká, i v přítmí zřetelná, štětcem malovaná písmena:
 
-Ubírám tam, kde zbývá málo,  
-přidávám tam, kde je nadbytek.
+_Ubírám tam, kde zbývá málo,  
+přidávám tam, kde je nadbytek._
+
+  
 
 A pod tím stojí menšími literami:
 
-Děti vody jsou mými nepřáteli.
+_Děti vody jsou mými nepřáteli._
+
+  
 
 Slova vložená do úst němému buldozeru. Určená komu: obsluze? Každému, kdo půjde kolem? Tím se má něčeho dosáhnout?
 
 To gesto je tak krásně donkichotské, že nad ním nemohu mávnout rukou. Potěšuje mě, utvrzuje mne v přesvědčení, že sám jednám správně, když žádám odpovědnost i od těch méně významných. Začal jsem u střelmistra v kamenolomu. Tihle jdou ještě níž: k dělníkovi, jenž neřídí vůbec nikoho, pouze svěřený stroj. Ani na okamžik nepochybuji, že plakát pochází z dílny mých údajných mladých přátel, které mi leckdo podsouvá a jež dosud neznám. Ale vím, že myslíme podobně. Děti vody jsou mými přáteli, o tom jsem přesvědčen. Dřív nebo později se setkáme. Nevím proč, ale trochu mi to nahání strach.
+
+  
 
 Zemský hornický úřad sídlí v Lazarské ulici, je to tuctová patrová budova, kterou snadno přehlédnete. Dole je vestibul s vrátnicí, vzadu přednáškový sál, v podlažích nad ním kanceláře. Přijíždím před hlavní vchod, ulice je po obou stranách obsazená auty, tak svého orezlého saaba zaparkuju právě zde, našikmo v mezeře mezi tmavými limuzínami úředníků. Ještě nejsem venku, když z otáčecích dveří skleněné dvorany vybíhá ozbrojená stráž, není to policista, ale člen nějaké bezpečnostní agentury. Huláká na celou ulici, a když spatří cizí poznávací značku, začíná s posunčinou. Moje kšiltovka a odřená bunda se mu nezdají, pak z mých úst slyší češtinu a opět zvyšuje hlas. Chci mluvit s Kostrybou, říkám prostě. S panem Kostrybou, opakuje a dodává, že pokud jsem si předem nesmluvil schůzku, nemůžu s panem Kostrybou mluvit, zato musím ihned uvolnit přístup k budově, tady není veřejné parkoviště.
 
 Odjíždím a zahýbám vlevo, na velkém náměstí mě zastavuje červená. Na sedadle vedle mě leží noviny, ještě jsem je nestačil prolistovat. Teď si všimnu vlastní tváře na první straně, je vyvedená nepřesně a neuměle a postrádá jakoukoli uměleckou kvalitu. Je nakreslená počítačem. Nejnápadnější a také nejpovedenější jsou dlouhé zplihlé vlasy, malý pršavý nos a vypoulené oči ryby, čelist je nepovedená, příliš jemná, ale zarostlá a skutečnosti neodpovídá ani o polovinu snížené čelo. Pod tím charakteristika: Terorista, co vyhazuje do povětří těžební techniku. Nejspíš zhrzený intelektuál, možná vědec, pravděpodobně řízený ze zahraničí. Nejspíš člen Nové zelené internacionály, nadnárodní levicové ekologické organizace sídlící v Bernu. Typ výbušniny, s níž pracuje, tu není znám. Muž je přirovnán k nějakému Američanovi, který si říkal Unabomber.
 
 Usmívám se nad tím, jak se zase jednou netrefili. S úpravou zevnějšku nebudu mít skoro žádnou práci, podle té malůvky mě na ulici nikdo nepozná. Vůz stojící za mnou troubí, už dlouho mi svítí zelená. Šlapu na plyn ve chvíli, kdy ji vystřídá oranžová, a auto uvedu do pohybu až na červenou. V zrcátku dělám dlouhý nos na řidiče za sebou, zdá se mi, že má u huby pěnu.
+
+  
 
 Uplynul týden, je pravé poledne. Dlouhý černý mercedes z autopůjčovny zaparkuju stejným způsobem jako posledně svůj saab – šikmo před vchodem do úřadu. Jinde v ulici není místo. Z vrátnice vybíhá ozbrojený mankurt, jiný než posledně, a než stačí otevřít pusu, podám mu klíčky a dvoutisícovou bankovku. Připojím poznámku, že on jistě parkování zvládne líp. Ukloní se jako lokaj. Když po chvíli ukazuji vrátnému své jméno v knize ohlášených návštěv, pozoruji z proskleného vestibulu, jak je mé auto vmanévrováno na chodník. Jdu k výtahu, v tmavošedém obleku se cítím dobře, v ruce se mi houpe hranatá aktovka. Dlouhé vlasy mám zastrčené pod límcem, jsou učesané a vypadají suché. Baron de Caus, občan Norského království, se přijel ujistit o bezpečnosti investic do těžby kamene v severních Čechách.
 
@@ -526,6 +549,8 @@ Podívám se na hodinky a vstanu. „Jestli mi lžete, najdu si vás.“
 Ani mě nenapadne spoléhat se na Kostrybovo mlčení o mé návštěvě. Má sice špatný zrak, ale k mému popisu může leccos přidat a viděla mě i sekretářka, vrátný i ten chlap, co mi parkoval auto. Musím jednat buď rychle, nebo se stáhnout do ústraní a čekat třeba roky na další vhodnou chvíli. Hora však nepočká.
 
 Ale jak jen vypátrat místo, kde tráví svou odloženou dovolenou všemocný ministerský náměstek?
+
+  
 
 Nesnáším telefonování. Když byla Francie protkána sítí železnic, spisovatel Flaubert řekl, že vlaky napomůžou jednomu: lidi se budou víc navštěvovat a nažvaní ještě víc blbostí, než nažvanili dosud. Co by Flaubert řekl přenosným telefonům? Sám bych si raději nechal useknout druhý prst než na svém těle muset nosit tu plebejskou odpornost.
 
@@ -643,6 +668,8 @@ Ani ranou své umělé tlapy by mi neuštědřil úder, jakého se mi dostalo z 
 
 Ale jaký život by to byl?
 
+  
+
 Scházejí mi bílé cesty, jimiž jsem chodíval, dělaly mé putování po souši snesitelným. Na bílých křižovatkách jsem zvažoval další kroky. Dřív byly všude. Dneska jsou černé a od jedné ke druhé se cestuje automobilem, spolehlivě podle značení, za doprovodu hudby z autorádia. Je to pohodlné, ale krása se vytratila. Zmizely aleje s ovocnými stromy, jejichž koruny chránily poutníky před sluncem i deštěm, pár posledních prašných cest nacházím ve svém kraji, mezi obcemi, jejichž význam je pro dnešní obyvatele zanedbatelný – spojnice jim nestály za zpevnění asfaltem. Třešně, višně, hrušně a jabloně už u nich stráž nedrží. Některé z alejí sice přežívají dodnes, ale jejich cesty – oblíbené, hojně užívané komunikace – jsou zalité dehtem. Jejich listí je nemocné a jejich ovoce plné olova.
 
 Znám jen jednu bílou třešňovku, kterou se chodí pěšky a na jejíž purpurové plody, byť zplanělé, si rád počkám do léta. Mezi třešněmi se krčí pár jabloní, právě rodí, ovoce dozlátlo a ztěžklo. Nikdo ho nechce. Jablka padají k zemi a hnijí, mění se v minulost jablek, potravu pro červy, vosy a ostatní havěť, která v nich nachází zvláštní, opojně sladkou šťávu rozkladu. Sbírám jedno jablko z tisíce a koušu do něj, chuť je spíš trpká, avšak vůně zůstává medová, memento času, kdy o ovoce bylo pečováno.
@@ -653,7 +680,7 @@ Za posledním stromem se zvedá holý struskový násep, na němž se za desítk
 
 Pode mnou bývaly vody Dolanského rybníka, o kus dál travnatý břeh a hráz s pěšinou a bezovými keři, někde tady jsem pozoroval při koupání Katynku a její družky. Přicházím k místu, kde býval vodní přepad nad skalní průrvou a nad ním se klenul samonosný kamenný most. Teď stojím na popraskaném asfaltu vysoko nad ním, napravo ode mne nedělená, uměle zvýšená vodní plocha a daleko na druhém břehu pláž. Pod srázem je betonová propust a pod ní náhon široký jako autostráda. Z jeho rozpraskaného dna trčí zkroucené železné dráty. Dříve se tudy sváděla voda do cihlových budov Nových spojených mlýnů, dávné pýchy mladé Československé republiky, plebejského státu posedlého výrobou a konzumem. Budovy z červených cihel chátrají. Přehrada má vody dost, ale musí si ji ponechat. Potoky a bystřiny, jež dříve napájely Holanské rybníky, vyschly. Jako by odmítly vlít se do těch ohavných mnohahektarových necek. Byly za to potrestány. Všechny pramenily na Vlhošti a zanikly spolu s horou.
 
-Scházím k mlýnům. Tovární komplex chrání drátěný plot. Na bráně visí cedule s nápisem NEPOVOLANÝM VSTUP ZAKÁZÁN. Ve vrátnici nikdo nesedí, ale v křoví, jež se doširoka rozrůstá nad panelovou příjezdovou cestou, je zaparkováno auto – stará škodovka neurčité barvy, prázdná, poháněná nejspíš bioplynem, soudě podle smradu, který se zvedá z ještě teplého motoru. Mezi ztichlými budovami nikoho nevidím, ostře to tam profukuje, na úhledných chodníčcích leží žluté listí, na střechách jsou patrné díry po shozených taškách. Nakukují do nich krkavci, kterých jsou tu spousty: v povětří, na opadaných stromech, na zaprášených parapetech zašlých oken. Až na prach a popílek je tu docela čisto, vlastně by se od zítřka mohlo začít mlít. Ale nezačne. Vodní turbíny a mlecí stroje byly odvezeny, odpočívají kdesi daleko v suchých vyhřívaných skladech. Možná už je dávno prodali v dražbě.
+Scházím k mlýnům. Tovární komplex chrání drátěný plot. Na bráně visí cedule s nápisem **NEPOVOLANÝM VSTUP ZAKÁZÁN**. Ve vrátnici nikdo nesedí, ale v křoví, jež se doširoka rozrůstá nad panelovou příjezdovou cestou, je zaparkováno auto – stará škodovka neurčité barvy, prázdná, poháněná nejspíš bioplynem, soudě podle smradu, který se zvedá z ještě teplého motoru. Mezi ztichlými budovami nikoho nevidím, ostře to tam profukuje, na úhledných chodníčcích leží žluté listí, na střechách jsou patrné díry po shozených taškách. Nakukují do nich krkavci, kterých jsou tu spousty: v povětří, na opadaných stromech, na zaprášených parapetech zašlých oken. Až na prach a popílek je tu docela čisto, vlastně by se od zítřka mohlo začít mlít. Ale nezačne. Vodní turbíny a mlecí stroje byly odvezeny, odpočívají kdesi daleko v suchých vyhřívaných skladech. Možná už je dávno prodali v dražbě.
 
 Obcházím areál kolem dokola, jeho přísný pořádek má v sobě něco děsivého, ticho, jež na něm leží, dráždí uši, zatímco všudypřítomný zápach dezinfekce upomíná na lyzolem vyrajbovanou márnici. Dříve udržovalo čistotu v mlýnech koště, bylo tomu tak i v mém Černém mlýně, provoněném dřevem a obilím a moukou. Ve velkokapacitních továrnách na potraviny hrozí na každém kroku kontaminace, a aby se tomu předešlo, klín je vytloukán klínem – chemií.
 
@@ -691,6 +718,8 @@ Koutkem oka zaznamenám nějaký pohyb. Zvednu hlavu, která mě rozbolela z toh
 
 Dávám se před ním na útěk.
 
+  
+
 Je odpoledne, sedím na břehu přehrady, pod lesem nad svažitou loukou, kde se světívaly slavnosti jara. Prohlížím si kladívko na denním světle. Přejedu si rukou po krku – tady mě slepá Katynka šlehla kopřivou. Starou Ves mám téměř u nohou, třicet metrů pod vodní hladinou. O kus dál vlevo, kde vrůstá do stráně umělá hráz, vytahují nějací lidé z vody oranžový nafukovací člun. Závěsný motor na něm nemají, právě dopádlovali ke břehu a potápěč si stáhl kuklu. Má světlé vlasy a výrazně řezaný obličej. Podává kyslíkovou bombu druhému muži, zatímco dívky vynášejí z člunu složené oblečení, termosku a piknikový koš. Jsou to ty, které jsem před pár hodinami zahlédl za plotem fabriky. Vítr mi donáší jen útržky rozhovoru, spíš podle výrazu tváří uhádnu, že se tomu ve skafandru smějí.
 
 Poklepu kladívkem do mezního balvanu. Uslyší to a všichni čtyři ke mně otočí hlavu, tři bez zájmu, jeden s trhnutím ramen. Dívám se přes kladívko na jeho ústa, otvírají se, chtějí promluvit, potom se zavřou. Muž mě chvíli pozoruje, pak se otočí a odchází za ostatními. Jde bos, v ruce si nese ploutve.
@@ -698,6 +727,8 @@ Poklepu kladívkem do mezního balvanu. Uslyší to a všichni čtyři ke mně o
 Bolí mě hlava, přikládám si na ni studené železo, ale jenom se to zhorší. Přestože jsem ze studené vody vylezl teprve nedávno, cítím, jak mi pod límcem na krku vyráží pot. Kladívko mi připomene dva mlýnské kameny, běhoun a spodek, které jsem kdysi nechal vyseknout z Vlhoště. Ta dvě kola mi teď drtí mozek. Tisknu si kladívko k očím, vkládám je mezi ty kameny jako klín.
 
 Potom se otočím k Vlhošti. Vrchol a příkrý jihovýchod jsou pryč, z hory zbývá polovina, mírná severozápadní strana připomíná podstavec gigantického pomníku. Můj zrak upoutává ploché temeno, má paměť rekonstruuje celek – kulatost, plnost, harmonii. Vlastně jsem byl první, kdo horu nahlodal, narušil její posvátný majestát a oslabil ji. Katynku to zničilo, kraj to uvrhlo do neštěstí. Byl jsem špatný pán a teď za to platím.
+
+  
 
 „Máte hlavu plnou rzi,“ přetrhne mi myšlenku potápěč, toho dne již podruhé. Skafandr už nemá. Natahuje ruku ke kladívku, které si tisknu k čelu. „Jdu si pro něj, našel jsem ho dole. Jste moc hodný, že jste ho vzal s sebou.“
 
@@ -781,6 +812,8 @@ Vezmu si od něj dušičku, a jen do ní kousnu, vzpomenu si na Kateřinu.
 
 Tomáš Mor odchází. Po chvíli zaslechnu zarachotit motor automobilu.
 
+  
+
 Zavírám dveře za nevlídným listopadovým dnem, vstupuji do pražského sídla Dětí vody. Mají je v jedné z hal Holešovické tržnice. Kdysi bývala v té dlouhé zelené budově jatka a příchozího znepokojí ocelové háky visící na kolejnicích podél bílými kachlíky obložených stěn. Dnes v hale na úkor rudé barvy převládá zelená, ale jako by tu byl stále cítit zašlý pach krve, jež stékala do nerezových kanálků v podlaze, připomínajících urinál. V kanálcích už dávno není krev a nevidím tam ani jeden nedopalek, ač si o nedopalky a jiné svinstvo přímo říkají. Předseda organizace je podle všeho zapřisáhlý nekuřák a vzorný hoch, co slušně zdraví a má rád, když věci jsou na svém místě. Na hácích visí rozesmáté propagační fotografie předních politiků, jednomu trčí špičatý hrot z oka, druhému z nosu, třetímu z úst. Na papírcích jsou k obrázkům potentátů přišpendleny xerokopie z tisku – jsou to jejich vlastní výroky, tak či onak spojené s životním prostředím. Už vím – jde o anketu, kterou Děti vody vyhlašují pravidelně. Její název je vyveden tlustými písmeny na velkém transparentu pod stropem: O ZELENOU SVINI – kandidáti na titul pro tento rok.
 
 Přistupuji k podobence jednookého předsedy parlamentu a čtu: „… těžař je tu od toho, aby těžil, a báňský úřad od toho, aby vyřízení žádostí těžařské společnosti bylo vždycky kladné.“ Předseda senátu visí po jeho levici, místo nosu má dvě díry. Říká: „… a ta dálnice se do chráněné krajinné oblasti dá dokonce umístit tak, aby to vypadalo hezky!“ A bezzubý premiér dodává: „Ekologicky uvědomělá mládež má plná ústa tolerance a svobody, ale ve skutečnosti je netolerantní a nerespektuje svobodu těžařů, myslivců, stavitelů přehrad a dálnic. Na příští demonstraci by tahle pošahaná mládež měla uslyšet jiný zvuk než rozbíjení výloh – měla by uslyšet štěkání policejních pušek.“
@@ -821,15 +854,17 @@ Potřeboval bych v klidu o těch slovech pouvažovat, ale není mi přáno.
 
 Ozve se dívčí zpěv, zprvu nenápadný, asi trojhlasý, ale klávesnice počítačů rázem utichají. Několik dalších hrdel se přidává, teď je to slušný sbor. Chlapci poslouchají, já a Tomáš s nimi.
 
-Nechoď, milý, v noci,  
+_Nechoď, milý, v noci,  
 přijdeš o svý oči,  
 přijdeš o svý obě,  
-kdo tě vodit bude?
+kdo tě vodit bude?_
 
-Kdyby mně dal Pánbůh,  
+_Kdyby mně dal Pánbůh,  
 že bych tě vodila,  
 kde nejhlubší studně,  
-tam bych tě shodila.
+tam bych tě shodila._
+
+  
 
 Jako by mi zpívala Kateřina.
 
@@ -847,11 +882,15 @@ Utkví na mně přimhouřený, zamyšlený pohled Tomáše Mora. „U nás na Mo
 
 Ta řeč na ně zapůsobí, z té trapné bryndy jsem rázem venku. Mládež je najednou chápavá, nejvíc slyší na Vodnáře, horoskopy jsou zřejmě zase v módě. Než se s Tomášem rozloučím, dotknou se mého ramene dva bělostné prsty. Je to Alice, nese mi šálek zeleného čaje. Dívka na mě mrkne a řekne: „To je ‚dračí studně‘. Pro chvíle krize a samoty. Čaj se u nás pít může. Děti vody pitím čaje podporují čínskou ekonomiku.“
 
+  
+
 Mea culpa, mea culpa – jistě, ale už jsem se vzpamatoval. Můžu se nenávidět, můžu si vyčítat vše, co jsem kdy udělal, a naopak i všechno to, co jsem neudělal. Můžu si lehnout na střechu panelového domu a v žáru poledního slunce uschnout jako had na trní.
 
 Neměl jsem tenkrát dát sluhovi svolení, aby vylomil mlýnské kameny z posvátné hory. Ale chtěl jsem mu dát svobodu, chtěl jsem mu dopřát, aby se postavil na vlastní nohy. Byla to ode mě neupřímná póza, chtěl jsem se vytáhnout před Staroveskými. V skrytu duše jsem si vůbec nepřál, aby se Francl stal mlynářem, a dokonce jsem to měl za nevděčnost. Když jsem ho v mrazu poslal do vesnice, dělal jsem to s vědomím, že ho to může stát život. Dělal jsem to s podprahovou, neuvědomělou, ale opravdovou touhou vidět toho nafoukaného mlynáříčka na márách.
 
 Dotkl se hory, dotkl se vody a zaplatil za to. Já se provinil stejně, ale účet jsem ještě nedostal. Než se tak stane, pokusím se aspoň umořit dluhy – svoje i cizí. Obrátit svůj hněv jinam. Být k něčemu.
+
+  
 
 Současný ministr životního prostředí škodí své zemi. Má to být velekněz nedotčené přírody, fanatický dogmatik s právem vetovat všechno, nač si vzpomene průmyslová, těžařská a energetická lobby, odmítnout všechno, co navrhne vláda a schválí parlament. Ministr životního prostředí musí být skutečným vládcem země. Musí hrát roli zeleného krále. Pokud ji hrát neumí nebo odmítá, pokud je podplacený, nedovtipný, neschopný nebo loajální jinému ideálu, musí být svržen ze svého trůnu a zkrácen o hlavu. Nahradí ho král nový.
 
@@ -867,17 +906,19 @@ Na Tomášovy dotazy, co tedy chci dělat, odpovídám vyhýbavě. S mými metod
 
 Stanovuji si pevné zásady:
 
-Nikdy se nesvěřuj člověku.
+**Nikdy se nesvěřuj člověku.**
 
-Konej, co musíš konat, ale nevinných se netkni.
+**Konej, co musíš konat, ale nevinných se netkni.**
 
-Chceš-li změnit svět, nech si to pro sebe a pracuj sám.
+**Chceš-li změnit svět, nech si to pro sebe a pracuj sám.**
 
-Mlč jako hrob, nechceš-li shnít za mřížemi.
+**Mlč jako hrob, nechceš-li shnít za mřížemi.**
 
-Živ svou nenávist, ale jednej s chladnou hlavou.
+**Živ svou nenávist, ale jednej s chladnou hlavou.**
 
-Zabij, musíš-li, ale nemuč.
+**Zabij, musíš-li, ale nemuč.**
+
+  
 
 Mokrovlasý unabomber chystá svůj druhý pumový útok, šedý mozek kalkuluje, zelené srdce zpívá. Databáze Dětí vody jsou užitečné, internet je skvělý pomocník; chtělo by se říci nejlepší přítel atentátníka, kdyby tak často nepadala síť. Řetězce informací se navazují jeden na druhý a splétají se v plastický obraz jednoho ministra, jeho povahy, soukromí, návyků, způsobu práce. Kučala má smůlu, že je tak populární. Všeteční novináři z víkendových příloh rádi sledují politiky po celý pracovní den, s urputností fanoušků filmové hvězdy je fotí za kuropění v koupelně se zubním kartáčkem v ústech, pozdě večer zas před televizorem, s mokrým kapesníkem na čele a shrnutými ponožkami. Velmi oblíbené je sledování ministra na jeho cestách po místech ekologických katastrof. Obrazovka počítače mi dokonce prozradí plán těchto cest na prosinec – Kučala si v rozhovoru postěžoval, že nebude mít letos čas na vánoční nákupy, a vyjmenoval všechny své nepříjemné štace. Ale on, jak sám zdůraznil, se svých povinností a závazků nezříká a nemá z nich strach, jinak by už dávno podal demisi.
 

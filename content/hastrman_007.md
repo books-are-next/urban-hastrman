@@ -1,7 +1,8 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Neexistuje větší štěstí než se obětovat.
+_Neexistuje větší štěstí než se obětovat._
 
-F. M. Dostojevskij
+_**_F. M. Dostojevskij_**_
