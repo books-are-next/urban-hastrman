@@ -53,7 +53,7 @@
             "filename": "hastrman_002.md",
             "xhtml": "hastrman_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -404,6 +404,6 @@
       "user": "books-are-next",
       "repo": "urban-hastrman"
     },
-    "generatedAt": 1649755291405
+    "generatedAt": 1652351618390
   }
 }

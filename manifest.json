@@ -1,22 +1,32 @@
 {
-  "author": "Miloš Urban",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "urban-hastrman-7f33379",
-  "languagecode": "cs",
-  "modified": "2018-02-08T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Hastrman",
-  "revision": "7f33379",
+  "author": "Miloš Urban",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "urban-hastrman-436f9ce",
+  "revision": "436f9ce",
+  "readingOrder": [
+    "promo.html",
+    "hastrman_005.html",
+    "hastrman_006.html",
+    "hastrman_007.html",
+    "hastrman_008.html",
+    "hastrman_011.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Apr 12 2022 09:22:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649755344809
+    "date": "Thu May 12 2022 10:42:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352159410
   },
   "documents": [
     {
-      "title": "Hastrman",
-      "file": "hastrman_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +34,7 @@
       "order": 0,
       "prev": null,
       "next": "hastrman_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Hastrman",
@@ -42,7 +44,7 @@
       "ideas": 6,
       "role": "chapter",
       "order": 1,
-      "prev": "hastrman_002.html",
+      "prev": "promo.html",
       "next": "hastrman_006.html",
       "toc": [
         {
@@ -95,7 +97,7 @@
       ]
     },
     {
-      "title": "Kniha první • Hastrman",
+      "title": "Kniha první",
       "file": "hastrman_008.html",
       "words": 59436,
       "chars": 347678,
@@ -115,7 +117,7 @@
       ]
     },
     {
-      "title": "Kniha druhá • Hastrman",
+      "title": "Kniha druhá",
       "file": "hastrman_011.html",
       "words": 45071,
       "chars": 269742,
@@ -135,11 +137,11 @@
       ]
     },
     {
-      "title": "Tiráž • Hastrman",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 138,
-      "chars": 893,
-      "ideas": 25,
+      "words": 109,
+      "chars": 709,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "hastrman_011.html",
@@ -157,9 +159,9 @@
   ],
   "totals": {
     "all": {
-      "words": 104690,
-      "chars": 618570,
-      "ideas": 1882
+      "words": 104661,
+      "chars": 618386,
+      "ideas": 1872
     },
     "chapters": {
       "words": 104547,

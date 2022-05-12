@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - hastrman_002.html
+  - promo.html
   - hastrman_005.html
   - hastrman_006.html
   - hastrman_007.html
