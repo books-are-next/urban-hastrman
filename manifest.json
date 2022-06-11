@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "urban-hastrman-dea3733",
-  "revision": "dea3733",
+  "identifier": "urban-hastrman-12b75c4",
+  "revision": "12b75c4",
   "readingOrder": [
     "promo.html",
     "hastrman_005.html",
@@ -20,8 +20,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:57:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883840308
+    "date": "Sat Jun 11 2022 12:13:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949581917
   },
   "documents": [
     {
