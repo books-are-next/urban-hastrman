@@ -6,7 +6,6 @@ contentType: prose
 
 
 
-
 <section>
 
 Protože tak to musí být.
@@ -1067,8 +1066,6 @@ Najednou, aniž bych postřehl, odkud se vzala, byla mezi dívkami opět Katynka
 Vstal jsem a vykročil k ní. V tu chvíli kouzlo skončilo. Dívky se promísily, zatočily v kole a rozprchly po lese, ve tmě mezi stromy podobné bílým plamínkům, které jeden po druhém zhasínají. Nevěděl jsem, která z těch šesti je Katynka. Zavrávoral jsem a přišlápl si klobouk.
 
 </section>
-
-
 
 <section>
 
