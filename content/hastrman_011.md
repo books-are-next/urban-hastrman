@@ -6,7 +6,6 @@ contentType: prose
 
 
 
-
 <section>
 
 Výbuch. Snad to tak musí být.
@@ -967,8 +966,6 @@ Mokrovlasý unabomber chystá svůj druhý pumový útok, šedý mozek kalkuluje
 Kdybys to udělal, říkám tváři v novinách, mohl sis zachránit kůži. Laserová tiskárna plive jeden papír za druhým a Alice mi jde už zase vysvětlovat, že mezi využíváním a zneužíváním kancelářské techniky je rozdíl. Kdyby tušila, co mám za lubem, okamžitě by vyhodila pojistky. A už by mi nenabídla zelený čaj.
 
 </section>
-
-
 
 <section>
 
