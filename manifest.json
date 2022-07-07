@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "urban-hastrman-d15ce7f",
-  "revision": "d15ce7f",
+  "identifier": "urban-hastrman-2e5e4da",
+  "revision": "2e5e4da",
   "readingOrder": [
     "promo.html",
     "hastrman_005.html",
@@ -17,11 +17,11 @@
     "hastrman_007.html",
     "hastrman_008.html",
     "hastrman_011.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:31:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980283360
+    "date": "Thu Jul 07 2022 08:41:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183299775
   },
   "documents": [
     {
@@ -125,7 +125,7 @@
       "role": "chapter",
       "order": 5,
       "prev": "hastrman_008.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -138,11 +138,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 128,
-      "chars": 844,
+      "chars": 843,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "hastrman_011.html",
       "next": null,
@@ -160,7 +160,7 @@
   "totals": {
     "all": {
       "words": 104688,
-      "chars": 618565,
+      "chars": 618564,
       "ideas": 1874
     },
     "chapters": {

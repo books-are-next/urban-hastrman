@@ -65,7 +65,7 @@
             "filename": "hastrman_003.md",
             "xhtml": "hastrman_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -77,7 +77,7 @@
             "filename": "hastrman_004.md",
             "xhtml": "hastrman_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -202,7 +202,7 @@
             "filename": "hastrman_014.md",
             "xhtml": "hastrman_014.html",
             "id": 13,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -404,6 +404,6 @@
       "user": "books-are-next",
       "repo": "urban-hastrman"
     },
-    "generatedAt": 1655979937741
+    "generatedAt": 1657182596803
   }
 }
