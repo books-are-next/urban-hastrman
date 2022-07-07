@@ -20,7 +20,7 @@ readingOrder:
   - hastrman_007.html
   - hastrman_008.html
   - hastrman_011.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
