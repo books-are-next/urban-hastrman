@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "urban-hastrman-c5d3559",
-  "revision": "c5d3559",
+  "identifier": "urban-hastrman-1fdcccc",
+  "revision": "1fdcccc",
   "readingOrder": [
     "promo.html",
     "hastrman_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:07:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924847995
+    "date": "Fri Oct 07 2022 14:08:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151732427
   },
   "documents": [
     {
