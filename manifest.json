@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "urban-hastrman-1fdcccc",
-  "revision": "1fdcccc",
+  "identifier": "urban-hastrman-9dcf3fb",
+  "revision": "9dcf3fb",
   "readingOrder": [
     "promo.html",
     "hastrman_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:08:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151732427
+    "date": "Mon Oct 10 2022 16:00:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417641322
   },
   "documents": [
     {
@@ -140,7 +140,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 127,
-      "chars": 844,
+      "chars": 845,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -160,7 +160,7 @@
   "totals": {
     "all": {
       "words": 104687,
-      "chars": 618565,
+      "chars": 618566,
       "ideas": 1873
     },
     "chapters": {
